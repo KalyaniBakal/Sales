@@ -1,0 +1,5 @@
+
+python:S117b"^Rename this local variable "Endtime_input" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä¸§–øÿÿÿÿ8”î±£»2
+ƒpython:S117\"`Rename this local variable "Starttime_input" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï·¡äúÿÿÿÿ8”î±£»2
+upython:S1542#"QRename function "freeBooking" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿõÈãùÿÿÿÿ8á»¯£»2
+[python:S5754z"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8å»¯£»2

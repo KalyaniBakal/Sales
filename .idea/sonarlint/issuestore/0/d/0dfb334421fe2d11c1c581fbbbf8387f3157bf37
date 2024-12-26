@@ -1,0 +1,4 @@
+
+python:S1192N"nDefine a constant instead of duplicating this literal '//table[@id="leadsTable"]/tbody/tr[1]/td[2]/a' 3 times.(§—Èà8ıÆÀ¸¹2
+qpython:S1192}"MDefine a constant instead of duplicating this literal "css selector" 4 times.(¼˜ÚŞùÿÿÿÿ8õš¼¸¹2
+Ipython:S1481"%Remove the unused local variable "i".(€•ãøøÿÿÿÿ8‚åäŸ¾2

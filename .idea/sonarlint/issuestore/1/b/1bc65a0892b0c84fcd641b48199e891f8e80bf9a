@@ -1,0 +1,10 @@
+
+lpython:S1192<"MDefine a constant instead of duplicating this literal "css selector" 5 times.(®Çáˆ8Æ˜½ ¾2
+python:S117†"`Rename this local variable "automaticPayout" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Øà¾8Æ˜½ ¾2
+|python:S117Œ"]Rename this local variable "dataVerified" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÖÊ‹8Ç˜½ ¾2
+python:S117Ý"[Rename this local variable "healerRank" to match the regular expression ^[_a-z][a-z0-9_]*$.(íñøÿÿÿÿ8¼Ðç¶2
+„python:S117å"`Rename this local variable "healingTimeMins" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÞÔå¸ýÿÿÿÿ8¼Ðç¶2
+~python:S117á"_Rename this local variable "healingsPerDay" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ãÈÇ8¼Ðç¶2
+zpython:S117‰"[Rename this local variable "isInactive" to match the regular expression ^[_a-z][a-z0-9_]*$.(äŠ‘©8Ç˜½ ¾2
+xpython:S117í"YRename this local variable "shortBio" to match the regular expression ^[_a-z][a-z0-9_]*$.(”’Ð±8¼Ðç¶2
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(íËÔ­øÿÿÿÿ8Ç˜½ ¾2

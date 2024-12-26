@@ -1,0 +1,4782 @@
+2024-12-17 18:46:18.145550 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-17 18:48:12.027182 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-17 18:48:12.280816 - Find Element - Pass - Located element: 'username'
+2024-12-17 18:48:12.330053 - Find Element - Pass - Located element: 'password'
+2024-12-17 18:48:12.417872 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-17 18:48:12.591033 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-17 18:48:19.457592 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/admin/user-management
+2024-12-17 18:48:22.491706 - Find Element - Pass - Located element: 'Change Role'
+2024-12-17 18:48:22.538589 - Click - Pass - Clicked element: 'Change Role'
+2024-12-17 18:48:25.622021 - Find Element - Pass - Located element: 'Make Admin'
+2024-12-17 18:48:25.657278 - Click - Pass - Clicked element: 'Make Admin'
+2024-12-17 18:48:28.750123 - Find Element - Pass - Located element: 'button'
+2024-12-17 18:48:28.750123 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView({block: 'center'});' with arguments: (<logs.LoggingElement (session="3485f7902d60834cc0009e085a8c91a2", element="f.A4510428A7DA4CE5013DFC2B0B3029FE.d.C77130884B9BC70A0A93FE4F83295C94.e.200")>,)
+2024-12-17 18:48:29.801318 - Click - Pass - Clicked element: 'btn'
+2024-12-17 18:48:32.075197 - Quit Browser - Pass - Closed the browser
+2024-12-17 18:51:08.814621 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-17 18:51:08.860005 - Find Element - Pass - Located element: 'username'
+2024-12-17 18:51:08.888044 - Find Element - Pass - Located element: 'password'
+2024-12-17 18:51:08.951665 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-17 18:51:09.055098 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-17 18:51:19.344135 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/calls
+2024-12-17 18:51:21.365261 - Find Element - Pass - Located element: 'Sort'
+2024-12-17 18:51:21.396613 - Click - Pass - Clicked element: 'Sort'
+2024-12-17 18:51:24.526883 - Click - Pass - Clicked element: 'Sort'
+2024-12-17 18:51:27.603470 - Find Element - Pass - Located element: 'startDate'
+2024-12-17 18:51:27.623940 - Find Element - Pass - Located element: 'endDate'
+2024-12-17 18:51:27.636279 - Send Keys - Pass - Entered '15-12-2024' into element: 'DD-MM-YYYY'
+2024-12-17 18:51:27.765054 - Send Keys - Pass - Entered '25-12-2024' into element: 'DD-MM-YYYY'
+2024-12-17 18:51:29.309728 - Find Element - Pass - Located element: 'customerName'
+2024-12-17 18:51:29.333159 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Type Customer Name'
+2024-12-17 18:51:32.616872 - Find Element - Pass - Located element: 'callerName'
+2024-12-17 18:51:32.644529 - Send Keys - Pass - Entered 'Vishal Yadav' into element: 'Type Caller Name'
+2024-12-17 18:51:37.720139 - Find Element - Pass - Located element: 'Select Status
+          ANSWERED
+          UNANSWERED'
+2024-12-17 18:51:40.845455 - Find Element - Pass - Located element: 'Search'
+2024-12-17 18:51:40.871996 - Click - Pass - Clicked element: 'Search'
+2024-12-17 18:51:43.960849 - Find Element - Pass - Located element: 'Reset all'
+2024-12-17 18:51:43.988971 - Click - Pass - Clicked element: 'Reset all'
+2024-12-17 18:51:47.956173 - Find Element - Pass - Located element: '+ Create call'
+2024-12-17 18:51:47.987714 - Click - Pass - Clicked element: '+ Create call'
+2024-12-17 18:51:52.402138 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Search Customer By Name'
+2024-12-17 18:51:57.497517 - Find Element - Pass - Located element: 'Kalyani Bakal'
+2024-12-17 18:51:57.525330 - Click - Pass - Clicked element: 'Kalyani Bakal'
+2024-12-17 18:51:57.578126 - Find Element - Pass - Located element: 'callDuration'
+2024-12-17 18:51:57.599122 - Send Keys - Pass - Entered '67' into element: 'Please enter any integer value'
+2024-12-17 18:51:57.662615 - Find Element - Pass - Located element: 'Notes'
+2024-12-17 18:51:57.695350 - Send Keys - Pass - Entered '4mkejSGkx3Uae5GvW2burOfg4rrdd7vOAKlQ3jlaIjQVzIGOFK5mLO1vEHuwaBC0Wmv5V1zt8yUIBchHVpSK4vQdiJyVv5eySdxZ' into element: 'Notes'
+2024-12-17 18:51:57.960971 - Find Element - Pass - Located element: 'Add'
+2024-12-17 18:51:57.992221 - Click - Pass - Clicked element: 'Add'
+2024-12-17 18:52:00.320031 - Execute Script - Pass - Executed script: 'document.querySelector('button[data-bs-dismiss="modal"]').click()' with arguments: ()
+2024-12-17 18:52:02.338283 - Execute Script - Pass - Executed script: 'document.querySelector('i.bi.bi-chevron-left').click()' with arguments: ()
+2024-12-17 18:52:04.061884 - Find Element - Pass - Located element: 'd3ae2'
+2024-12-17 18:52:04.090152 - Click - Pass - Clicked element: 'd3ae2'
+2024-12-17 18:52:04.956254 - Find Element - Pass - Located element: 'Edit'
+2024-12-17 18:52:04.982029 - Click - Pass - Clicked element: 'Edit'
+2024-12-17 18:52:05.096472 - Send Keys - Pass - Entered '77' into element: 'Please enter any integer value'
+2024-12-17 18:52:05.145576 - Find Element - Pass - Located element: '4mkejSGkx3Uae5GvW2burOfg4rrdd7vOAKlQ3jlaIjQVzIGOFK5mLO1vEHuwaBC0Wmv5V1zt8yUIBchHVpSK4vQdiJyVv5eySdxZ'
+2024-12-17 18:52:05.195713 - Send Keys - Pass - Entered '4mkejSGkx3Uae5GvW2burOfg4rrdd7vOAKlQ3jlaIjQVzIGOFK5mLO1vEHuwaBC0Wmv5V1zt8yUIBchHVpSK4vQdiJyVv5eySdxZ' into element: '4mkejSGkx3Uae5GvW2burOfg4rrdd7vOAKlQ3jlaIjQVzIGOFK5mLO1vEHuwaBC0Wmv5V1zt8yUIBchHVpSK4vQdiJyVv5eySdxZ'
+2024-12-17 18:52:05.476463 - Find Element - Pass - Located element: 'Update'
+2024-12-17 18:52:05.507694 - Click - Pass - Clicked element: 'Update'
+2024-12-17 18:52:05.550598 - Execute Script - Pass - Executed script: 'document.querySelector('button[data-bs-dismiss="modal"]').click()' with arguments: ()
+2024-12-17 18:52:07.720532 - Quit Browser - Pass - Closed the browser
+2024-12-17 18:57:24.171491 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-17 18:57:24.218351 - Find Element - Pass - Located element: 'username'
+2024-12-17 18:57:24.250134 - Find Element - Pass - Located element: 'password'
+2024-12-17 18:57:24.319775 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-17 18:57:24.454196 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-17 18:57:33.613862 - Quit Browser - Pass - Closed the browser
+2024-12-18 13:52:27.755335 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 13:52:27.911047 - Find Element - Pass - Located element: 'username'
+2024-12-18 13:52:27.940144 - Find Element - Pass - Located element: 'password'
+2024-12-18 13:52:28.008122 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 13:52:28.099804 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 13:52:35.172164 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 13:52:37.206172 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 13:52:37.235501 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 13:54:29.830051 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 13:54:29.872235 - Find Element - Pass - Located element: 'username'
+2024-12-18 13:54:29.901488 - Find Element - Pass - Located element: 'password'
+2024-12-18 13:54:29.977733 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 13:54:30.071500 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 13:54:33.404002 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 13:54:35.448052 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 13:54:35.487676 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 13:54:38.687598 - Find Element - Pass - Located element: 'search-name'
+2024-12-18 13:54:38.712675 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-18 13:54:40.831547 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-18 13:55:50.915749 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 13:55:50.953714 - Find Element - Pass - Located element: 'username'
+2024-12-18 13:55:50.983513 - Find Element - Pass - Located element: 'password'
+2024-12-18 13:55:51.057555 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 13:55:51.149412 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 13:55:56.014295 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 13:55:58.065719 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 13:55:58.099258 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 13:56:01.238701 - Find Element - Pass - Located element: 'search-name'
+2024-12-18 13:56:01.271104 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-18 13:56:03.372884 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-18 13:56:05.479477 - Find Element - Pass - Located element: 'startDate'
+2024-12-18 13:56:05.501543 - Find Element - Pass - Located element: 'endDate'
+2024-12-18 13:56:05.524851 - Send Keys - Pass - Entered '22-11-2024' into element: 'DD-MM-YYYY'
+2024-12-18 13:56:05.626334 - Send Keys - Pass - Entered '06-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 13:57:36.402362 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 13:57:36.444855 - Find Element - Pass - Located element: 'username'
+2024-12-18 13:57:36.482697 - Find Element - Pass - Located element: 'password'
+2024-12-18 13:57:36.562155 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 13:57:36.660829 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 13:57:43.790411 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 13:57:45.831885 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 13:57:45.863570 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 13:57:49.007524 - Find Element - Pass - Located element: 'search-name'
+2024-12-18 13:57:49.041591 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-18 13:57:51.142563 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-18 13:57:53.232267 - Find Element - Pass - Located element: 'startDate'
+2024-12-18 13:57:53.257293 - Find Element - Pass - Located element: 'endDate'
+2024-12-18 13:57:53.280146 - Send Keys - Pass - Entered '11-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 13:57:53.384186 - Send Keys - Pass - Entered '17-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 13:57:53.471336 - Find Element - Pass - Located element: 'Search'
+2024-12-18 13:57:53.511080 - Click - Pass - Clicked element: 'Search'
+2024-12-18 13:57:55.765165 - Find Element - Pass - Located element: 'Reset all'
+2024-12-18 13:57:55.796325 - Click - Pass - Clicked element: 'Reset all'
+2024-12-18 13:58:00.648136 - Quit Browser - Pass - Closed the browser
+2024-12-18 14:05:57.594845 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 14:05:57.636454 - Find Element - Pass - Located element: 'username'
+2024-12-18 14:05:57.665792 - Find Element - Pass - Located element: 'password'
+2024-12-18 14:05:57.742971 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 14:05:57.837923 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 14:06:01.749501 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 14:06:03.792016 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 14:06:03.823899 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 14:06:06.962930 - Find Element - Pass - Located element: 'search-name'
+2024-12-18 14:06:06.996270 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-18 14:06:09.106541 - Find Element - Pass - Located element: 'Kalyani Bakal(ceb15)'
+2024-12-18 14:06:09.140451 - Click - Pass - Clicked element: 'Kalyani Bakal(ceb15)'
+2024-12-18 14:06:11.240987 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-18 14:06:13.395538 - Find Element - Pass - Located element: 'startDate'
+2024-12-18 14:06:13.418571 - Find Element - Pass - Located element: 'endDate'
+2024-12-18 14:06:13.441833 - Send Keys - Pass - Entered '25-11-2024' into element: 'DD-MM-YYYY'
+2024-12-18 14:06:13.543794 - Send Keys - Pass - Entered '01-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 14:06:13.629095 - Find Element - Pass - Located element: 'Search'
+2024-12-18 14:06:13.661410 - Click - Pass - Clicked element: 'Search'
+2024-12-18 14:06:15.905432 - Find Element - Pass - Located element: 'Reset all'
+2024-12-18 14:06:15.958636 - Click - Pass - Clicked element: 'Reset all'
+2024-12-18 14:06:48.468418 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 14:06:48.512200 - Find Element - Pass - Located element: 'username'
+2024-12-18 14:06:48.541584 - Find Element - Pass - Located element: 'password'
+2024-12-18 14:06:48.614034 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 14:06:48.717640 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 14:06:54.273118 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 14:06:56.319561 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 14:06:56.351986 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 14:06:59.516082 - Find Element - Pass - Located element: 'search-name'
+2024-12-18 14:06:59.540017 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-18 14:07:01.641415 - Find Element - Pass - Located element: 'Kalyani Bakal(ceb15)'
+2024-12-18 14:07:01.678366 - Click - Pass - Clicked element: 'Kalyani Bakal(ceb15)'
+2024-12-18 14:07:03.769825 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-18 14:07:05.878017 - Find Element - Pass - Located element: 'startDate'
+2024-12-18 14:07:05.901826 - Find Element - Pass - Located element: 'endDate'
+2024-12-18 14:07:05.924917 - Send Keys - Pass - Entered '16-11-2024' into element: 'DD-MM-YYYY'
+2024-12-18 14:07:06.024276 - Send Keys - Pass - Entered '13-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 14:07:06.119516 - Find Element - Pass - Located element: 'Search'
+2024-12-18 14:07:06.154013 - Click - Pass - Clicked element: 'Search'
+2024-12-18 14:07:08.385754 - Find Element - Pass - Located element: 'Reset all'
+2024-12-18 14:07:08.415489 - Click - Pass - Clicked element: 'Reset all'
+2024-12-18 14:09:13.704530 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-18 14:09:13.749134 - Find Element - Pass - Located element: 'username'
+2024-12-18 14:09:13.804023 - Find Element - Pass - Located element: 'password'
+2024-12-18 14:09:13.880082 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-18 14:09:13.983235 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-18 14:09:19.803140 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-18 14:09:21.849756 - Find Element - Pass - Located element: 'Filter'
+2024-12-18 14:09:21.891706 - Click - Pass - Clicked element: 'Filter'
+2024-12-18 14:09:25.135773 - Find Element - Pass - Located element: 'search-name'
+2024-12-18 14:09:25.158805 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-18 14:09:27.261042 - Find Element - Pass - Located element: 'Kalyani Bakal(ceb15)'
+2024-12-18 14:09:27.296926 - Click - Pass - Clicked element: 'Kalyani Bakal(ceb15)'
+2024-12-18 14:09:29.378248 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-18 14:09:31.496182 - Find Element - Pass - Located element: 'startDate'
+2024-12-18 14:09:31.519236 - Find Element - Pass - Located element: 'endDate'
+2024-12-18 14:09:31.544709 - Send Keys - Pass - Entered '06-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 14:09:31.647646 - Send Keys - Pass - Entered '28-12-2024' into element: 'DD-MM-YYYY'
+2024-12-18 14:09:31.728952 - Find Element - Pass - Located element: 'Search'
+2024-12-18 14:09:31.772918 - Click - Pass - Clicked element: 'Search'
+2024-12-18 14:09:34.006774 - Find Element - Pass - Located element: 'Reset all'
+2024-12-18 14:09:34.045853 - Click - Pass - Clicked element: 'Reset all'
+2024-12-18 14:09:37.090940 - Find Element - Pass - Located element: '486e6'
+2024-12-18 14:09:37.133423 - Click - Pass - Clicked element: '486e6'
+2024-12-18 14:09:40.005827 - Quit Browser - Pass - Closed the browser
+2024-12-20 16:33:40.948811 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:33:41.021742 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:33:41.083929 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:33:41.294788 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:33:41.498585 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:33:46.329441 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/top-customers-report
+2024-12-20 16:33:48.410097 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 16:33:48.529439 - Click - Pass - Clicked element: 'Filter'
+2024-12-20 16:33:51.805217 - Find Element - Pass - Located element: 'search-name'
+2024-12-20 16:33:51.897895 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name...'
+2024-12-20 16:33:54.124299 - Find Element - Pass - Located element: 'Kalyani Bakal(ceb15)'
+2024-12-20 16:33:54.209685 - Click - Pass - Clicked element: 'Kalyani Bakal(ceb15)'
+2024-12-20 16:33:56.347026 - Find Element - Pass - Located element: 'Select type
+            FREE
+            PAID'
+2024-12-20 16:33:58.524221 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 16:33:58.574277 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 16:33:58.631045 - Send Keys - Pass - Entered '30-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:33:58.845017 - Send Keys - Pass - Entered '30-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:33:58.985806 - Find Element - Pass - Located element: 'Search'
+2024-12-20 16:33:59.052460 - Click - Pass - Clicked element: 'Search'
+2024-12-20 16:34:01.343690 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 16:34:01.456533 - Click - Pass - Clicked element: 'Reset all'
+2024-12-20 16:34:04.778736 - Find Element - Pass - Located element: 'ceb15'
+2024-12-20 16:34:04.861229 - Click - Pass - Clicked element: 'ceb15'
+2024-12-20 16:34:10.209072 - Quit Browser - Pass - Closed the browser
+2024-12-20 16:35:00.203728 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:35:00.252928 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:35:00.297387 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:35:00.407945 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:35:00.554848 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:35:06.717784 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/calls
+2024-12-20 16:35:08.767321 - Find Element - Pass - Located element: 'Sort'
+2024-12-20 16:35:08.825593 - Click - Pass - Clicked element: 'Sort'
+2024-12-20 16:35:12.050077 - Click - Pass - Clicked element: 'Sort'
+2024-12-20 16:35:15.205453 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 16:35:15.265480 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 16:35:15.327774 - Send Keys - Pass - Entered '18-11-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:35:15.517774 - Send Keys - Pass - Entered '24-11-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:35:15.949223 - Find Element - Pass - Located element: 'customerName'
+2024-12-20 16:35:16.026830 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Type Customer Name'
+2024-12-20 16:35:19.358640 - Find Element - Pass - Located element: 'callerName'
+2024-12-20 16:35:19.457457 - Send Keys - Pass - Entered 'Vishal Yadav' into element: 'Type Caller Name'
+2024-12-20 16:35:24.671325 - Find Element - Pass - Located element: 'Select Status
+          ANSWERED
+          UNANSWERED'
+2024-12-20 16:35:28.014367 - Find Element - Pass - Located element: 'Search'
+2024-12-20 16:35:28.129948 - Click - Pass - Clicked element: 'Search'
+2024-12-20 16:35:31.327915 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 16:35:31.453999 - Click - Pass - Clicked element: 'Reset all'
+2024-12-20 16:35:35.792499 - Find Element - Pass - Located element: '+ Create call'
+2024-12-20 16:35:35.906847 - Click - Pass - Clicked element: '+ Create call'
+2024-12-20 16:35:38.898970 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Search Customer By Name'
+2024-12-20 16:35:44.111929 - Find Element - Pass - Located element: 'Kalyani Bakal'
+2024-12-20 16:35:44.226469 - Click - Pass - Clicked element: 'Kalyani Bakal'
+2024-12-20 16:35:44.409931 - Find Element - Pass - Located element: 'callDuration'
+2024-12-20 16:35:44.487207 - Send Keys - Pass - Entered '57' into element: 'Please enter any integer value'
+2024-12-20 16:35:44.638547 - Find Element - Pass - Located element: 'Notes'
+2024-12-20 16:35:44.728533 - Send Keys - Pass - Entered 'aizOMzWSAmkgOLzWPDy9w99kjcFLoRQ9C0aaNiZmYUhCllJvo yaAErf3BlV50zNFMOAtdS4Id1VmxK2Zj5fdwOINfouR1IliqIi' into element: 'Notes'
+2024-12-20 16:35:45.144223 - Find Element - Pass - Located element: 'Add'
+2024-12-20 16:35:45.218945 - Click - Pass - Clicked element: 'Add'
+2024-12-20 16:35:47.708974 - Execute Script - Pass - Executed script: 'document.querySelector('button[data-bs-dismiss="modal"]').click()' with arguments: ()
+2024-12-20 16:35:49.737973 - Execute Script - Pass - Executed script: 'document.querySelector('i.bi.bi-chevron-left').click()' with arguments: ()
+2024-12-20 16:35:51.101665 - Find Element - Pass - Located element: '01945'
+2024-12-20 16:35:51.211248 - Click - Pass - Clicked element: '01945'
+2024-12-20 16:35:52.294094 - Find Element - Pass - Located element: 'Edit'
+2024-12-20 16:35:52.383573 - Click - Pass - Clicked element: 'Edit'
+2024-12-20 16:35:52.712462 - Send Keys - Pass - Entered '40' into element: 'Please enter any integer value'
+2024-12-20 16:35:52.882575 - Find Element - Pass - Located element: 'aizOMzWSAmkgOLzWPDy9w99kjcFLoRQ9C0aaNiZmYUhCllJvo yaAErf3BlV50zNFMOAtdS4Id1VmxK2Zj5fdwOINfouR1IliqIi'
+2024-12-20 16:35:53.033675 - Send Keys - Pass - Entered 'aizOMzWSAmkgOLzWPDy9w99kjcFLoRQ9C0aaNiZmYUhCllJvo yaAErf3BlV50zNFMOAtdS4Id1VmxK2Zj5fdwOINfouR1IliqIi' into element: 'aizOMzWSAmkgOLzWPDy9w99kjcFLoRQ9C0aaNiZmYUhCllJvo yaAErf3BlV50zNFMOAtdS4Id1VmxK2Zj5fdwOINfouR1IliqIi'
+2024-12-20 16:35:53.417329 - Find Element - Pass - Located element: 'Update'
+2024-12-20 16:35:53.474798 - Click - Pass - Clicked element: 'Update'
+2024-12-20 16:35:53.594625 - Execute Script - Pass - Executed script: 'document.querySelector('button[data-bs-dismiss="modal"]').click()' with arguments: ()
+2024-12-20 16:35:55.857108 - Quit Browser - Pass - Closed the browser
+2024-12-20 16:37:47.580257 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:37:47.634556 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:37:47.699610 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:37:47.902433 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:37:48.186623 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:37:52.015910 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/all-user-list
+2024-12-20 16:37:54.071390 - Find Element - Pass - Located element: 'i'
+2024-12-20 16:37:54.121057 - Click - Pass - Clicked element: 'bi'
+2024-12-20 16:37:57.395268 - Find Element - Pass - Located element: 'input'
+2024-12-20 16:37:57.491363 - Send Keys - Pass - Entered 'lQcIjwws' into element: 'User name'
+2024-12-20 16:37:59.709976 - Find Element - Pass - Located element: 'Select Type
+            Enabled
+            disabled
+            Deleted'
+2024-12-20 16:38:01.906876 - Find Element - Pass - Located element: 'Select Type
+            Confirmed
+            Not Confirmed'
+2024-12-20 16:38:05.132658 - Find Element - Pass - Located element: 'Select Type
+            External
+            Internal'
+2024-12-20 16:38:08.353156 - Find Element - Pass - Located element: 'Search'
+2024-12-20 16:38:08.475410 - Click - Pass - Clicked element: 'Search'
+2024-12-20 16:38:10.673153 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 16:38:10.783082 - Click - Pass - Clicked element: 'Reset all'
+2024-12-20 16:38:13.774533 - Find Element - Pass - Located element: '+917038827701'
+2024-12-20 16:38:13.890010 - Click - Pass - Clicked element: '+917038827701'
+2024-12-20 16:38:20.246732 - Find Element - Pass - Located element: 'Edit'
+2024-12-20 16:38:20.345513 - Click - Pass - Clicked element: 'Edit'
+2024-12-20 16:38:23.544693 - Find Element - Pass - Located element: 'fullname'
+2024-12-20 16:38:23.729757 - Send Keys - Pass - Entered 'UJJckgYE' into element: 'Full Name'
+2024-12-20 16:38:23.899767 - Find Element - Pass - Located element: 'userEmail'
+2024-12-20 16:38:24.007213 - Send Keys - Pass - Entered 'lw8s0syp@example.com' into element: 'userEmail'
+2024-12-20 16:38:24.185499 - Find Element - Pass - Located element: 'userDob'
+2024-12-20 16:38:24.334528 - Send Keys - Pass - Entered '11-01-1962' into element: 'userDob'
+2024-12-20 16:38:27.655367 - Find Element - Pass - Located element: 'Select portal role
+                                    SALESUSER
+                                    ADMIN'
+2024-12-20 16:38:30.844585 - Find Element - Pass - Located element: 'Update details'
+2024-12-20 16:38:30.951342 - Click - Pass - Clicked element: 'Update details'
+2024-12-20 16:38:35.390547 - Quit Browser - Pass - Closed the browser
+2024-12-20 16:39:47.425975 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:39:47.479573 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:39:47.511739 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:39:47.600161 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:39:47.722905 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:39:53.851509 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/tasks
+2024-12-20 16:39:55.923838 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 16:39:56.037660 - Click - Pass - Clicked element: 'Filter'
+2024-12-20 16:39:56.863172 - Find Element - Pass - Located element: 'title'
+2024-12-20 16:39:56.959113 - Send Keys - Pass - Entered 'Teg' into element: 'Task title'
+2024-12-20 16:39:57.143545 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 16:39:57.208512 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 16:39:57.300439 - Send Keys - Pass - Entered '28-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:39:57.548094 - Send Keys - Pass - Entered '29-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:40:49.339444 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:40:49.400703 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:40:49.447030 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:40:49.528475 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:40:49.650955 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:40:53.845128 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/tasks
+2024-12-20 16:40:55.919913 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 16:40:56.024841 - Click - Pass - Clicked element: 'Filter'
+2024-12-20 16:40:56.870687 - Find Element - Pass - Located element: 'title'
+2024-12-20 16:40:56.968820 - Send Keys - Pass - Entered 'Teg' into element: 'Task title'
+2024-12-20 16:40:57.139791 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 16:40:57.197515 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 16:40:57.262185 - Send Keys - Pass - Entered '09-11-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:40:57.474994 - Send Keys - Pass - Entered '22-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:47:03.179646 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:47:03.303264 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:47:03.385589 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:47:03.626115 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:47:03.897362 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:47:09.231751 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/tasks
+2024-12-20 16:47:11.268419 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 16:47:11.304198 - Click - Pass - Clicked element: 'Filter'
+2024-12-20 16:47:11.770183 - Find Element - Pass - Located element: 'title'
+2024-12-20 16:47:11.817834 - Send Keys - Pass - Entered 'Teg' into element: 'Task title'
+2024-12-20 16:47:11.939608 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 16:47:11.986015 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 16:47:12.037429 - Send Keys - Pass - Entered '27-11-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:47:12.218175 - Send Keys - Pass - Entered '29-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:47:14.373061 - Find Element - Pass - Located element: 'Select
+                                True
+                                False'
+2024-12-20 16:47:16.510456 - Find Element - Pass - Located element: 'Select status
+                                Open
+                                Closed'
+2024-12-20 16:47:16.704648 - Find Element - Pass - Located element: 'Search'
+2024-12-20 16:47:16.801981 - Click - Pass - Clicked element: 'Search'
+2024-12-20 16:47:21.221268 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 16:47:21.282660 - Click - Pass - Clicked element: 'Reset all'
+2024-12-20 16:47:27.422909 - Find Element - Pass - Located element: 'New'
+2024-12-20 16:47:27.506800 - Click - Pass - Clicked element: 'New'
+2024-12-20 16:47:30.660702 - Send Keys - Pass - Entered 'aDILCJSb' into element: 'Title of task'
+2024-12-20 16:47:33.787781 - Find Element - Pass - Located element: 'dueDate'
+2024-12-20 16:47:33.835009 - Send Keys - Pass - Entered '03-05-2025' into element: 'DD-MM-YYYY'
+2024-12-20 16:49:12.773971 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:49:12.844285 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:49:12.894626 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:49:12.984530 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:49:13.104567 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:49:17.406452 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/tasks
+2024-12-20 16:49:19.454970 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 16:49:19.495840 - Click - Pass - Clicked element: 'Filter'
+2024-12-20 16:49:20.015629 - Find Element - Pass - Located element: 'title'
+2024-12-20 16:49:20.060942 - Send Keys - Pass - Entered 'Teg' into element: 'Task title'
+2024-12-20 16:49:20.130531 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 16:49:20.160620 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 16:49:20.187846 - Send Keys - Pass - Entered '07-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:49:20.369231 - Send Keys - Pass - Entered '11-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 16:49:22.550540 - Find Element - Pass - Located element: 'Select
+                                True
+                                False'
+2024-12-20 16:49:24.673751 - Find Element - Pass - Located element: 'Select status
+                                Open
+                                Closed'
+2024-12-20 16:49:24.746963 - Find Element - Pass - Located element: 'Search'
+2024-12-20 16:49:24.786109 - Click - Pass - Clicked element: 'Search'
+2024-12-20 16:49:29.105017 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 16:49:29.196854 - Click - Pass - Clicked element: 'Reset all'
+2024-12-20 16:49:34.242070 - Find Element - Pass - Located element: 'New'
+2024-12-20 16:49:34.284969 - Click - Pass - Clicked element: 'New'
+2024-12-20 16:49:37.478152 - Send Keys - Pass - Entered 'gPKKUAfe' into element: 'Title of task'
+2024-12-20 16:49:40.595773 - Find Element - Pass - Located element: 'dueDate'
+2024-12-20 16:49:40.663589 - Send Keys - Pass - Entered '07-04-2025' into element: 'DD-MM-YYYY'
+2024-12-20 16:49:40.831373 - Find Element - Pass - Located element: 'timeInput'
+2024-12-20 16:49:40.940854 - Send Keys - Pass - Entered '0727' into element: 'HH:MM'
+2024-12-20 16:49:45.002034 - Execute Script - Pass - Executed script: 'document.getElementById('time_am').checked = true;' with arguments: ()
+2024-12-20 16:49:45.164438 - Send Keys - Pass - Entered '10-07-2025' into element: 'DD-MM-YYYY'
+2024-12-20 16:49:45.297146 - Find Element - Pass - Located element: 'isRecurring'
+2024-12-20 16:49:45.350340 - Click - Pass - Clicked element: 'isRecurring'
+2024-12-20 16:49:48.456187 - Find Element - Pass - Located element: 'Select
+                            Daily
+                            Weekly
+                            Monthly
+                            Yearly'
+2024-12-20 16:49:50.577788 - Find Element - Pass - Located element: 'description'
+2024-12-20 16:49:50.608233 - Send Keys - Pass - Entered 'ZmEuZKIxWGiEiDpETjnWkJpDQEfrDDizUrIZtPibPGaeMkEopWOjCxkfNljVggOTMIAdDzdBdDDtcufaCyGzpdParKbkwYuwUPrp' into element: 'description'
+2024-12-20 16:49:50.935931 - Find Element - Pass - Located element: 'Submit'
+2024-12-20 16:49:50.977211 - Click - Pass - Clicked element: 'Submit'
+2024-12-20 16:49:57.182886 - Find Element - Pass - Located element: 'OK'
+2024-12-20 16:49:57.219369 - Click - Pass - Clicked element: 'OK'
+2024-12-20 16:59:21.658222 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 16:59:21.715534 - Find Element - Pass - Located element: 'username'
+2024-12-20 16:59:21.752961 - Find Element - Pass - Located element: 'password'
+2024-12-20 16:59:21.915077 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 16:59:22.015261 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 16:59:29.336242 - Find Element - Pass - Located element: 'Leads'
+2024-12-20 16:59:29.422164 - Click - Pass - Clicked element: 'Leads'
+2024-12-20 16:59:33.716391 - Find Element - Pass - Located element: 'div'
+2024-12-20 16:59:33.716391 - Execute Script - Pass - Executed script: 'arguments[0].style.display = 'block';' with arguments: (<logs.LoggingElement (session="956e558df3a9e30b661a43fdb6376910", element="f.4D3F5C3DD532A13F593172582B82313F.d.F1D4D79A6673627300A29FB15E61150A.e.226")>,)
+2024-12-20 16:59:33.766598 - Find Element - Pass - Located element: 'Healers'
+2024-12-20 16:59:33.827054 - Click - Pass - Clicked element: 'Healers'
+2024-12-20 16:59:37.893090 - Execute Script - Pass - Executed script: 'arguments[0].style.display = 'block';' with arguments: (<logs.LoggingElement (session="956e558df3a9e30b661a43fdb6376910", element="f.4D3F5C3DD532A13F593172582B82313F.d.CC657649516F3A2ADD9363C1A1E2B4E6.e.279")>,)
+2024-12-20 16:59:37.940636 - Find Element - Pass - Located element: 'Remedies'
+2024-12-20 16:59:38.006011 - Click - Pass - Clicked element: 'Remedies'
+2024-12-20 16:59:41.844226 - Execute Script - Pass - Executed script: 'arguments[0].style.display = 'block';' with arguments: (<logs.LoggingElement (session="956e558df3a9e30b661a43fdb6376910", element="f.4D3F5C3DD532A13F593172582B82313F.d.3887875EB1A4E5B313CF7645CCB21891.e.302")>,)
+2024-12-20 17:07:57.943403 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:07:58.001616 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:07:58.066890 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:07:58.204421 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:07:58.305679 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:08:03.881528 - Find Element - Pass - Located element: 'Expand All'
+2024-12-20 17:08:03.960444 - Click - Pass - Clicked element: 'Expand All'
+2024-12-20 17:08:06.114527 - Click - Pass - Clicked element: 'Expand All'
+2024-12-20 17:08:10.210269 - Find Element - Pass - Located element: 'Collapse All'
+2024-12-20 17:08:10.276511 - Click - Pass - Clicked element: 'Collapse All'
+2024-12-20 17:08:14.507179 - Quit Browser - Pass - Closed the browser
+2024-12-20 17:09:53.683552 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:09:53.755250 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:09:53.813763 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:09:53.896286 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:09:54.050990 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:10:01.181619 - Find Element - Pass - Located element: 'Expand All'
+2024-12-20 17:10:01.259356 - Click - Pass - Clicked element: 'Expand All'
+2024-12-20 17:10:03.483884 - Click - Pass - Clicked element: 'Expand All'
+2024-12-20 17:10:07.596717 - Find Element - Pass - Located element: 'Collapse All'
+2024-12-20 17:10:07.657011 - Click - Pass - Clicked element: 'Collapse All'
+2024-12-20 17:10:09.716371 - Execute Script - Pass - Executed script: 'window.scrollBy(0, 230);' with arguments: ()
+2024-12-20 17:10:11.774092 - Find Element - Pass - Located element: 'Week'
+2024-12-20 17:10:11.827503 - Click - Pass - Clicked element: 'Week'
+2024-12-20 17:10:14.962447 - Find Element - Pass - Located element: 'Month'
+2024-12-20 17:10:15.010241 - Click - Pass - Clicked element: 'Month'
+2024-12-20 17:10:18.125133 - Find Element - Pass - Located element: 'Year'
+2024-12-20 17:10:18.204922 - Click - Pass - Clicked element: 'Year'
+2024-12-20 17:10:25.298089 - Execute Script - Pass - Executed script: 'window.scrollBy(0, 480);' with arguments: ()
+2024-12-20 17:10:29.403885 - Find Element - Pass - Located element: 'div'
+2024-12-20 17:10:29.473082 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:10:31.725508 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:10:33.830306 - Find Element - Pass - Located element: 'W'
+2024-12-20 17:10:33.888867 - Click - Pass - Clicked element: 'W'
+2024-12-20 17:10:37.031494 - Find Element - Pass - Located element: 'M'
+2024-12-20 17:10:37.106844 - Click - Pass - Clicked element: 'M'
+2024-12-20 17:10:40.256555 - Find Element - Pass - Located element: 'Y'
+2024-12-20 17:10:40.330574 - Click - Pass - Clicked element: 'Y'
+2024-12-20 17:10:43.506437 - Find Element - Pass - Located element: 'i'
+2024-12-20 17:10:43.573463 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:10:46.453945 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:10:48.635745 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:10:50.804281 - Click - Pass - Clicked element: 'W'
+2024-12-20 17:10:53.982340 - Click - Pass - Clicked element: 'M'
+2024-12-20 17:10:57.175912 - Click - Pass - Clicked element: 'Y'
+2024-12-20 17:11:00.300981 - Find Element - Pass - Located element: 'Export'
+2024-12-20 17:11:00.376605 - Click - Pass - Clicked element: 'Export'
+2024-12-20 17:11:02.597447 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:11:05.399953 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:11:07.612991 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:11:09.786731 - Find Element - Pass - Located element: 'input'
+2024-12-20 17:11:09.846433 - Click - Pass - Clicked element: 'Unnamed Element'
+2024-12-20 17:11:12.066381 - Click - Pass - Clicked element: 'W'
+2024-12-20 17:11:15.303524 - Click - Pass - Clicked element: 'M'
+2024-12-20 17:11:18.538862 - Click - Pass - Clicked element: 'Y'
+2024-12-20 17:11:21.734448 - Find Element - Pass - Located element: 'button'
+2024-12-20 17:11:21.798019 - Click - Pass - Clicked element: 'border-0'
+2024-12-20 17:11:26.491506 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:11:28.622591 - Click - Pass - Clicked element: 'rounded-circle'
+2024-12-20 17:11:30.792919 - Click - Pass - Clicked element: 'W'
+2024-12-20 17:11:33.994121 - Click - Pass - Clicked element: 'M'
+2024-12-20 17:11:37.233476 - Click - Pass - Clicked element: 'Y'
+2024-12-20 17:11:40.408867 - Click - Pass - Clicked element: 'Export'
+2024-12-20 17:11:42.625965 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:11:48.268414 - Execute Script - Pass - Executed script: 'window.scrollBy(0, 630);' with arguments: ()
+2024-12-20 17:11:52.278949 - Execute Script - Pass - Executed script: 'window.scrollBy(0, 880);' with arguments: ()
+2024-12-20 17:11:56.406611 - Click - Pass - Clicked element: 'border-0'
+2024-12-20 17:12:02.982098 - Click - Pass - Clicked element: 'Export'
+2024-12-20 17:12:05.251727 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:12:07.792947 - Execute Script - Pass - Executed script: 'window.scrollBy(0, 1760);' with arguments: ()
+2024-12-20 17:12:11.915664 - Click - Pass - Clicked element: 'border-0'
+2024-12-20 17:12:18.658748 - Click - Pass - Clicked element: 'Export'
+2024-12-20 17:12:20.998224 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:12:26.592551 - Quit Browser - Pass - Closed the browser
+2024-12-20 17:13:12.158928 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:13:12.222032 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:13:12.273735 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:13:12.366628 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:13:12.512779 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:13:17.908610 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/all-Healing-list
+2024-12-20 17:39:33.121603 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:39:33.369080 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:39:33.411311 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:39:33.494813 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:39:33.592972 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:40:34.978544 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:40:35.036766 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:40:35.068624 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:40:35.169686 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:40:35.276544 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:40:39.296273 - Find Element - Pass - Located element: 'i'
+2024-12-20 17:40:39.327436 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:40:42.450608 - Find Element - Pass - Located element: 'searchBy'
+2024-12-20 17:40:42.490000 - Click - Pass - Clicked element: 'searchBy'
+2024-12-20 17:40:42.582217 - Find Element - Pass - Located element: 'Apply'
+2024-12-20 17:40:42.616858 - Click - Pass - Clicked element: 'Apply'
+2024-12-20 17:40:45.702239 - Find Element - Pass - Located element: 'OK'
+2024-12-20 17:40:45.763190 - Click - Pass - Clicked element: 'OK'
+2024-12-20 17:40:50.721921 - Find Element - Pass - Located element: 'Search'
+2024-12-20 17:40:50.770557 - Send Keys - Pass - Entered '2a72a803-acb8-47df-bd7e-a08a07a7de49' into element: 'Search'
+2024-12-20 17:41:42.583612 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:41:42.635594 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:41:42.680446 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:41:42.776093 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:41:42.879494 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:41:49.080642 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/emis
+2024-12-20 17:41:52.259452 - Find Element - Pass - Located element: 'Sort'
+2024-12-20 17:41:52.331291 - Click - Pass - Clicked element: 'Sort'
+2024-12-20 17:41:54.526667 - Click - Pass - Clicked element: 'Sort'
+2024-12-20 17:41:56.899715 - Find Element - Pass - Located element: 'customerName'
+2024-12-20 17:41:56.944408 - Send Keys - Pass - Entered 'Amisha Jadhav' into element: 'Search by name'
+2024-12-20 17:49:12.447369 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:49:12.495667 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:49:12.532991 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:49:12.619772 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:49:12.815248 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:49:20.605692 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/emis
+2024-12-20 17:49:23.674053 - Find Element - Pass - Located element: 'Sort'
+2024-12-20 17:49:23.771757 - Click - Pass - Clicked element: 'Sort'
+2024-12-20 17:49:26.025978 - Click - Pass - Clicked element: 'Sort'
+2024-12-20 17:49:28.446070 - Find Element - Pass - Located element: 'customerName'
+2024-12-20 17:49:28.503888 - Send Keys - Pass - Entered 'Amisha Jadhav' into element: 'Search by name'
+2024-12-20 17:50:37.290016 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:50:37.340511 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:50:37.383592 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:50:37.467256 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:50:37.573764 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:50:42.780039 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/feedbacks
+2024-12-20 17:50:45.111159 - Find Element - Pass - Located element: 'customerName'
+2024-12-20 17:50:45.139792 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'Customer name'
+2024-12-20 17:50:50.265553 - Find Element - Pass - Located element: 'Kalyani Bakal
+(ceb15)'
+2024-12-20 17:50:50.335580 - Click - Pass - Clicked element: 'Kalyani Bakal
+(ceb15)'
+2024-12-20 17:50:52.465776 - Find Element - Pass - Located element: 'Select rating
+                1
+                2
+                3
+                4
+                5'
+2024-12-20 17:50:55.597658 - Find Element - Pass - Located element: 'startDate'
+2024-12-20 17:50:55.635321 - Find Element - Pass - Located element: 'endDate'
+2024-12-20 17:50:55.663819 - Send Keys - Pass - Entered '11-11-2024' into element: 'DD-MM-YYYY'
+2024-12-20 17:50:55.780738 - Send Keys - Pass - Entered '14-12-2024' into element: 'DD-MM-YYYY'
+2024-12-20 17:50:55.872444 - Find Element - Pass - Located element: 'Search'
+2024-12-20 17:50:55.909003 - Click - Pass - Clicked element: 'Search'
+2024-12-20 17:51:00.167822 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 17:51:00.221031 - Click - Pass - Clicked element: 'Reset all'
+2024-12-20 17:51:02.934342 - Find Element - Pass - Located element: '+ Add a feedback'
+2024-12-20 17:51:02.987947 - Click - Pass - Clicked element: '+ Add a feedback'
+2024-12-20 17:51:09.197556 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'customerName'
+2024-12-20 17:51:14.356934 - Click - Pass - Clicked element: 'Kalyani Bakal
+(ceb15)'
+2024-12-20 17:51:16.465319 - Find Element - Pass - Located element: 'i'
+2024-12-20 17:51:16.498467 - Click - Pass - Clicked element: 'bi'
+2024-12-20 17:51:16.568813 - Find Element - Pass - Located element: 'files'
+2024-12-20 17:51:16.595933 - Send Keys - Pass - Entered 'C:/Users/bakal/OneDrive/Desktop/HC150.png' into element: 'files'
+2024-12-20 17:51:19.690150 - Find Element - Pass - Located element: 'feedback'
+2024-12-20 17:51:19.732332 - Send Keys - Pass - Entered 'This feature could use some improvement.' into element: 'I am facing this issue'
+2024-12-20 17:51:22.873047 - Find Element - Pass - Located element: 'Save'
+2024-12-20 17:51:22.939709 - Click - Pass - Clicked element: 'Save'
+2024-12-20 17:51:26.394669 - Find Element - Pass - Located element: 'OK'
+2024-12-20 17:51:26.436714 - Click - Pass - Clicked element: 'OK'
+2024-12-20 17:51:31.587765 - Find Element - Pass - Located element: '7924f'
+2024-12-20 17:51:31.670753 - Click - Pass - Clicked element: '7924f'
+2024-12-20 17:51:37.326707 - Find Element - Pass - Located element: 'Edit'
+2024-12-20 17:51:37.364239 - Click - Pass - Clicked element: 'Edit'
+2024-12-20 17:51:40.453099 - Find Element - Pass - Located element: 'This feature could use some improvement.'
+2024-12-20 17:51:40.539849 - Send Keys - Pass - Entered 'I'm experiencing an issue with this.' into element: 'This feature could use some improvement.'
+2024-12-20 17:51:43.746482 - Click - Pass - Clicked element: 'Save'
+2024-12-20 17:51:47.169791 - Click - Pass - Clicked element: 'OK'
+2024-12-20 17:51:50.749744 - Find Element - Pass - Located element: 'Feedback'
+2024-12-20 17:51:50.785973 - Click - Pass - Clicked element: 'Feedback'
+2024-12-20 17:51:56.600785 - Quit Browser - Pass - Closed the browser
+2024-12-20 17:52:29.290765 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:52:29.346489 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:52:29.405367 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:52:29.490289 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:52:29.590489 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:52:34.655263 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/static/get_all_address
+2024-12-20 17:52:56.780970 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 17:52:56.848298 - Find Element - Pass - Located element: 'username'
+2024-12-20 17:52:56.898171 - Find Element - Pass - Located element: 'password'
+2024-12-20 17:52:56.970549 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 17:52:57.091525 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 17:53:02.748881 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/static/get_all_address
+2024-12-20 17:53:04.787097 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 17:53:04.787097 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="c7039618a009ce446ba7e7f3d87b2852", element="f.77D1BDEAA26C8E68DB07131371B35CE8.d.A5802B822ECA152F329FDF1E98804320.e.157")>,)
+2024-12-20 17:53:07.887799 - Find Element - Pass - Located element: 'input'
+2024-12-20 17:53:07.923000 - Send Keys - Pass - Entered 'Kalyani Bakal' into element: 'User name'
+2024-12-20 17:53:08.009735 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="c7039618a009ce446ba7e7f3d87b2852", element="f.77D1BDEAA26C8E68DB07131371B35CE8.d.A5802B822ECA152F329FDF1E98804320.e.174")>,)
+2024-12-20 17:53:08.015338 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="c7039618a009ce446ba7e7f3d87b2852", element="f.77D1BDEAA26C8E68DB07131371B35CE8.d.A5802B822ECA152F329FDF1E98804320.e.174")>,)
+2024-12-20 17:53:08.020316 - Execute Script - Pass - Executed script: 'document.querySelector('body').click();' with arguments: ()
+2024-12-20 17:53:08.072829 - Find Element - Pass - Located element: 'Select city
+                            
+                                
+                                Aheri
+                                
+                                Ahmadpur
+                                
+                                Akola
+                                
+                                Akot
+                                
+                                Bamako
+                                
+                                Begusarai
+                                
+                                Bijbiara
+                                
+                                Borgo Maggiore
+                                
+                                Breyten
+                                
+                                Butha Buthe
+                                
+                                Chesterville
+                                
+                                Chitipa
+                                
+                                Cojutepeque
+                                
+                                Daegu
+                                
+                                Dagda
+                                
+                                Daman
+                                
+                                Dambulla
+                                
+                                Delhi
+                                
+                                El Tigre
+                                
+                                Ertis
+                                
+                                Figuif
+                                
+                                Fomboni
+                                
+                                Gaaf Dhaal
+                                
+                                Gereshk
+                                
+                                Goa
+                                
+                                Gracias
+                                
+                                Grand Cayman
+                                
+                                Ilulissat
+                                
+                                Kokan
+                                
+                                Komotini
+                                
+                                Kwanza Sul
+                                
+                                Madugule
+                                
+                                Mahama
+                                
+                                Maharashtra
+                                
+                                Malacca
+                                
+                                Mana
+                                
+                                Montserrat
+                                
+                                Monzon
+                                
+                                Mumbai
+                                
+                                Neuquen
+                                
+                                New Delhi
+                                
+                                Nkhotakota
+                                
+                                Palghar
+                                
+                                Port-aux-Francais
+                                
+                                Pune
+                                
+                                San Vicente
+                                
+                                Timphu
+                                
+                                Wangdiphodrang
+                                
+                                Western Mindanao
+                                
+                                Woqoyi Galbed'
+2024-12-20 17:53:11.876658 - Find Element - Pass - Located element: 'Select state
+                            
+                                
+                                    Andhra Pradesh
+                                
+                                    Anzoategui
+                                
+                                    Bamako
+                                
+                                    Bihar
+                                
+                                    Borgo Maggiore
+                                
+                                    Butha-Buthe
+                                
+                                    Chitipa
+                                
+                                    Cuscatlan
+                                
+                                    Daegu
+                                
+                                    Daman and Diu
+                                
+                                    Delhi
+                                
+                                    Gaaf Dhaal
+                                
+                                    goa
+                                
+                                    Grand Cayman
+                                
+                                    Hilmand
+                                
+                                    Huesca
+                                
+                                    Ilulissat
+                                
+                                    Jammu and Kashmir
+                                
+                                    Kerguelen
+                                
+                                    Kraslavas
+                                
+                                    Kwanza Sul
+                                
+                                    KwaZulu Natal
+                                
+                                    Lempira
+                                
+                                    Mahama
+                                
+                                    Maharashtra
+                                
+                                    Matale
+                                
+                                    Melaka
+                                
+                                    Montserrat
+                                
+                                    Mpumalanga
+                                
+                                    Mwali
+                                
+                                    Neuquen
+                                
+                                    Nkhotakota
+                                
+                                    Nord Extreme
+                                
+                                    Pavlodar
+                                
+                                    Rodopi
+                                
+                                    rqndpbjdjd
+                                
+                                    Saint-Laurent-du-Maroni
+                                
+                                    San Vicente
+                                
+                                    Timphu
+                                
+                                    Wangdiphodrang
+                                
+                                    Western Mindanao
+                                
+                                    Woqoyi Galbed'
+2024-12-20 17:53:15.497006 - Find Element - Pass - Located element: 'Select country
+                            
+                                
+                                Afghanistan
+                                
+                                Angola
+                                
+                                Argentina
+                                
+                                Bahrain
+                                
+                                Bhutan
+                                
+                                Cameroon
+                                
+                                Cayman Islands
+                                
+                                Comoros
+                                
+                                El Salvador
+                                
+                                French Guiana
+                                
+                                French Southern Territories
+                                
+                                Greece
+                                
+                                Greenland
+                                
+                                Honduras
+                                
+                                India
+                                
+                                Kazakhstan
+                                
+                                Korea South
+                                
+                                Latvia
+                                
+                                Lesotho
+                                
+                                Malawi
+                                
+                                Malaysia
+                                
+                                Maldives
+                                
+                                Mali
+                                
+                                Mayotte
+                                
+                                Montserrat
+                                
+                                Philippines
+                                
+                                San Marino
+                                
+                                Somalia
+                                
+                                South Africa
+                                
+                                Spain
+                                
+                                Sri Lanka
+                                
+                                Venezuela'
+2024-12-20 17:53:18.627809 - Find Element - Pass - Located element: 'Search'
+2024-12-20 17:53:18.627809 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="c7039618a009ce446ba7e7f3d87b2852", element="f.77D1BDEAA26C8E68DB07131371B35CE8.d.A5802B822ECA152F329FDF1E98804320.e.368")>,)
+2024-12-20 17:53:21.676604 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 17:53:21.676604 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="c7039618a009ce446ba7e7f3d87b2852", element="f.77D1BDEAA26C8E68DB07131371B35CE8.d.A5802B822ECA152F329FDF1E98804320.e.371")>,)
+2024-12-20 17:53:25.349871 - Find Element - Pass - Located element: 'Add new'
+2024-12-20 17:53:25.349871 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="c7039618a009ce446ba7e7f3d87b2852", element="f.77D1BDEAA26C8E68DB07131371B35CE8.d.4B524E37152FD46C9FEA90EFECD6E2DC.e.427")>,)
+2024-12-20 17:53:28.401978 - Find Element - Pass - Located element: 'search'
+2024-12-20 17:53:28.430204 - Send Keys - Pass - Entered 'Amisha Jadhav' into element: 'Search user name'
+2024-12-20 17:53:33.680685 - Find Element - Pass - Located element: 'flatNoBuildingName'
+2024-12-20 17:53:33.718786 - Send Keys - Pass - Entered 'Flat 74, Building C' into element: 'Enter Flat No. and Building Name'
+2024-12-20 17:53:36.878184 - Find Element - Pass - Located element: 'localityAreaStreet'
+2024-12-20 17:53:36.925414 - Send Keys - Pass - Entered 'Locality 99, Street E' into element: 'Local area, Street name'
+2024-12-20 17:53:40.067817 - Find Element - Pass - Located element: 'Select Country'
+2024-12-20 18:02:48.250318 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 18:02:48.311265 - Find Element - Pass - Located element: 'username'
+2024-12-20 18:02:48.369399 - Find Element - Pass - Located element: 'password'
+2024-12-20 18:02:48.453787 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 18:02:48.594208 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 18:02:54.348490 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/static/category/get_all_category
+2024-12-20 18:24:28.584814 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-20 18:24:28.632115 - Find Element - Pass - Located element: 'username'
+2024-12-20 18:24:28.686290 - Find Element - Pass - Located element: 'password'
+2024-12-20 18:24:28.773150 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-20 18:24:28.876577 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-20 18:24:34.227040 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/static/category/get_all_category
+2024-12-20 18:24:36.274306 - Find Element - Pass - Located element: 'New'
+2024-12-20 18:24:36.275310 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.132750F1FFD9421C719273BD48F52622.e.139")>,)
+2024-12-20 18:24:39.325705 - Find Element - Pass - Located element: 'category_id'
+2024-12-20 18:24:39.352459 - Send Keys - Pass - Entered 'cat6382' into element: 'Category Id'
+2024-12-20 18:24:39.427328 - Find Element - Pass - Located element: 'category_name'
+2024-12-20 18:24:39.453510 - Send Keys - Pass - Entered 'Category 367' into element: 'Category name'
+2024-12-20 18:24:42.572669 - Find Element - Pass - Located element: 'description'
+2024-12-20 18:24:42.643297 - Send Keys - Pass - Entered 'Detailed information about the item.' into element: 'description'
+2024-12-20 18:24:45.832335 - Find Element - Pass - Located element: 'Save'
+2024-12-20 18:24:45.832335 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.132750F1FFD9421C719273BD48F52622.e.148")>,)
+2024-12-20 18:24:49.555189 - Find Element - Pass - Located element: 'OK'
+2024-12-20 18:24:49.556190 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.6E63E97BA790862FD201A06EA356F871.e.174")>,)
+2024-12-20 18:24:52.614852 - Find Element - Pass - Located element: 'Filter'
+2024-12-20 18:24:52.614852 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.6E63E97BA790862FD201A06EA356F871.e.177")>,)
+2024-12-20 18:24:55.684223 - Find Element - Pass - Located element: 'Select option
+                Yes
+                No'
+2024-12-20 18:24:58.859420 - Find Element - Pass - Located element: 'Search'
+2024-12-20 18:24:58.860420 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.6E63E97BA790862FD201A06EA356F871.e.191")>,)
+2024-12-20 18:25:01.938391 - Find Element - Pass - Located element: 'Reset all'
+2024-12-20 18:25:01.938391 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.6E63E97BA790862FD201A06EA356F871.e.193")>,)
+2024-12-20 18:25:08.571234 - Find Element - Pass - Located element: 'Edit'
+2024-12-20 18:25:08.571234 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.9DE870C0F515B427A368A21FFA1C653A.e.220")>,)
+2024-12-20 18:25:11.644699 - Find Element - Pass - Located element: 'Yes
+                        No'
+2024-12-20 18:25:14.791830 - Find Element - Pass - Located element: 'Update'
+2024-12-20 18:25:14.792946 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.9DE870C0F515B427A368A21FFA1C653A.e.226")>,)
+2024-12-20 18:25:18.429416 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.25D6F412C55A325E627A3823DDE4252F.e.249")>,)
+2024-12-20 18:25:21.970269 - Find Element - Pass - Located element: 'Delete'
+2024-12-20 18:25:21.971273 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.E5E1E4825E24AB7020D24CF01EAB47D5.e.274")>,)
+2024-12-20 18:25:25.045862 - Find Element - Pass - Located element: 'Yes'
+2024-12-20 18:25:25.045862 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.E5E1E4825E24AB7020D24CF01EAB47D5.e.276")>,)
+2024-12-20 18:25:28.791409 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="29d9b2e451d82a62724e854a520d5486", element="f.FD05514B8AD130369549A0669CC975D1.d.9D1518C52C9BAAF0F3B5CD307953206A.e.304")>,)
+2024-12-20 18:25:34.454731 - Quit Browser - Pass - Closed the browser
+2024-12-20 18:25:54.949197 - Quit Browser - Pass - Closed the browser
+2024-12-23 10:14:38.789524 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 10:14:39.015503 - Find Element - Pass - Located element: 'username'
+2024-12-23 10:14:39.048797 - Find Element - Pass - Located element: 'password'
+2024-12-23 10:14:39.131602 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 10:14:39.246119 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 10:14:44.574757 - Find Element - Pass - Located element: 'Coupons'
+2024-12-23 10:14:44.604172 - Click - Pass - Clicked element: 'Coupons'
+2024-12-23 10:14:56.238719 - Find Element - Pass - Located element: 'HEXXX'
+2024-12-23 10:14:56.268520 - Click - Pass - Clicked element: 'HEXXX'
+2024-12-23 10:14:56.966992 - Find Element - Pass - Located element: 'Edit'
+2024-12-23 10:14:56.997371 - Click - Pass - Clicked element: 'Edit'
+2024-12-23 10:15:00.087983 - Find Element - Pass - Located element: 'coupon_name'
+2024-12-23 10:15:00.138887 - Send Keys - Pass - Entered 'llfPzdIg' into element: 'Name'
+2024-12-23 10:15:03.239492 - Find Element - Pass - Located element: 'expiryDate'
+2024-12-23 10:16:20.659991 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 10:16:20.704968 - Find Element - Pass - Located element: 'username'
+2024-12-23 10:16:20.741465 - Find Element - Pass - Located element: 'password'
+2024-12-23 10:16:20.815354 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 10:16:20.982193 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 10:16:25.495329 - Find Element - Pass - Located element: 'Coupons'
+2024-12-23 10:16:25.525711 - Click - Pass - Clicked element: 'Coupons'
+2024-12-23 10:16:32.425969 - Find Element - Pass - Located element: 'startDate'
+2024-12-23 10:16:32.444965 - Find Element - Pass - Located element: 'endDate'
+2024-12-23 10:16:32.467159 - Send Keys - Pass - Entered '24-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 10:16:32.594990 - Send Keys - Pass - Entered '24-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 10:17:18.122163 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 10:17:18.164974 - Find Element - Pass - Located element: 'username'
+2024-12-23 10:17:18.192509 - Find Element - Pass - Located element: 'password'
+2024-12-23 10:17:18.255135 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 10:17:18.362651 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 10:17:22.854550 - Find Element - Pass - Located element: 'Coupons'
+2024-12-23 10:17:22.879801 - Click - Pass - Clicked element: 'Coupons'
+2024-12-23 10:17:29.373227 - Find Element - Pass - Located element: 'startDate'
+2024-12-23 10:17:29.394301 - Find Element - Pass - Located element: 'endDate'
+2024-12-23 10:17:29.414860 - Send Keys - Pass - Entered '23-11-2024' into element: 'DD-MM-YYYY'
+2024-12-23 10:17:29.546915 - Send Keys - Pass - Entered '10-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 10:17:29.647799 - Find Element - Pass - Located element: 'Select offer
+                        
+                            HEXXX
+                        
+                            christmas
+                        
+                            NewYear
+                        
+                            111
+                        
+                            Personal
+                        
+                            GOA
+                        
+                            Diwali
+                        
+                            qxNXfQyB
+                        
+                            sWsrekYc
+                        
+                            hXOhVMhE
+                        
+                            dpyZzNVF
+                        
+                            idCbNNdq
+                        
+                            FmsgJNRE
+                        
+                            FzggUbXM
+                        
+                            kkqauXAI
+                        
+                            jxTxTpJY
+                        
+                            pWTTkfMU
+                        
+                            UqzggWoI
+                        
+                            DINojGpH
+                        
+                            GeHhwYEy
+                        
+                            LWkoXcEE
+                        
+                            kk
+                        
+                            DBCACABACDAADAC
+                        
+                            DBAAACBDDBDBBBA
+                        
+                            DCABAADBDDBCCBC
+                        
+                            DCCBAADABCCDCBB
+                        
+                            fe8ff315
+                        
+                            HEXADECIMAL
+                        
+                            spl38
+                        
+                            spl38
+                        
+                            spl328'
+2024-12-23 10:17:29.749417 - Find Element - Pass - Located element: 'Select Status
+                        NEW
+                        EXHAUSTED
+                        EXPIRED'
+2024-12-23 10:17:32.842655 - Find Element - Pass - Located element: 'Search'
+2024-12-23 10:17:32.884519 - Click - Pass - Clicked element: 'Search'
+2024-12-23 10:17:36.237614 - Find Element - Pass - Located element: 'Reset all'
+2024-12-23 10:17:36.274990 - Click - Pass - Clicked element: 'Reset all'
+2024-12-23 10:17:40.009766 - Find Element - Pass - Located element: 'Create Coupon'
+2024-12-23 10:17:40.039991 - Click - Pass - Clicked element: 'Create Coupon'
+2024-12-23 10:17:43.117061 - Find Element - Pass - Located element: 'coupon_name'
+2024-12-23 10:17:43.140713 - Send Keys - Pass - Entered 'PIxzsiDw' into element: 'Name'
+2024-12-23 10:17:43.674319 - Find Element - Pass - Located element: 'coupon_code'
+2024-12-23 10:17:43.708537 - Send Keys - Pass - Entered 'M2C4D' into element: 'Code'
+2024-12-23 10:17:48.813331 - Find Element - Pass - Located element: 'discount_value'
+2024-12-23 10:17:48.834250 - Send Keys - Pass - Entered '14' into element: 'Number'
+2024-12-23 10:17:51.904968 - Find Element - Pass - Located element: 'totalUsageCount'
+2024-12-23 10:17:51.928384 - Send Keys - Pass - Entered '67' into element: 'Number'
+2024-12-23 10:17:51.990055 - Find Element - Pass - Located element: 'expiryDate'
+2024-12-23 10:17:52.014146 - Send Keys - Pass - Entered '17-10-2025' into element: 'DD-MM-YYYY'
+2024-12-23 10:17:52.110074 - Find Element - Pass - Located element: 'Percentage
+                            Value'
+2024-12-23 10:17:52.182307 - Find Element - Pass - Located element: 'Create'
+2024-12-23 10:17:52.217178 - Click - Pass - Clicked element: 'Create'
+2024-12-23 11:45:29.115928 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 11:45:29.307555 - Find Element - Pass - Located element: 'username'
+2024-12-23 11:45:29.338963 - Find Element - Pass - Located element: 'password'
+2024-12-23 11:45:29.419325 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 11:45:29.533675 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 11:45:35.539084 - Find Element - Pass - Located element: 'Coupons'
+2024-12-23 11:45:35.570660 - Click - Pass - Clicked element: 'Coupons'
+2024-12-23 11:45:42.106674 - Find Element - Pass - Located element: 'startDate'
+2024-12-23 11:45:42.125000 - Find Element - Pass - Located element: 'endDate'
+2024-12-23 11:45:42.147193 - Send Keys - Pass - Entered '18-11-2024' into element: 'DD-MM-YYYY'
+2024-12-23 11:45:42.293667 - Send Keys - Pass - Entered '20-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 11:45:42.395857 - Find Element - Pass - Located element: 'Select offer
+                        
+                            HEXXX
+                        
+                            christmas
+                        
+                            NewYear
+                        
+                            111
+                        
+                            Personal
+                        
+                            GOA
+                        
+                            Diwali
+                        
+                            qxNXfQyB
+                        
+                            sWsrekYc
+                        
+                            hXOhVMhE
+                        
+                            dpyZzNVF
+                        
+                            idCbNNdq
+                        
+                            FmsgJNRE
+                        
+                            FzggUbXM
+                        
+                            kkqauXAI
+                        
+                            jxTxTpJY
+                        
+                            pWTTkfMU
+                        
+                            UqzggWoI
+                        
+                            DINojGpH
+                        
+                            GeHhwYEy
+                        
+                            LWkoXcEE
+                        
+                            kk
+                        
+                            DBCACABACDAADAC
+                        
+                            DBAAACBDDBDBBBA
+                        
+                            DCABAADBDDBCCBC
+                        
+                            DCCBAADABCCDCBB
+                        
+                            fe8ff315
+                        
+                            HEXADECIMAL
+                        
+                            spl38
+                        
+                            spl38
+                        
+                            spl328'
+2024-12-23 11:45:42.495104 - Find Element - Pass - Located element: 'Select Status
+                        NEW
+                        EXHAUSTED
+                        EXPIRED'
+2024-12-23 11:45:45.599588 - Find Element - Pass - Located element: 'Search'
+2024-12-23 11:45:45.627262 - Click - Pass - Clicked element: 'Search'
+2024-12-23 11:45:48.915812 - Find Element - Pass - Located element: 'Reset all'
+2024-12-23 11:45:48.945773 - Click - Pass - Clicked element: 'Reset all'
+2024-12-23 11:45:53.339622 - Find Element - Pass - Located element: 'Create Coupon'
+2024-12-23 11:45:53.366755 - Click - Pass - Clicked element: 'Create Coupon'
+2024-12-23 11:45:56.485085 - Find Element - Pass - Located element: 'coupon_name'
+2024-12-23 11:45:56.505499 - Send Keys - Pass - Entered 'rkndRKWC' into element: 'Name'
+2024-12-23 11:45:57.001624 - Find Element - Pass - Located element: 'coupon_code'
+2024-12-23 11:45:57.026305 - Send Keys - Pass - Entered '18SPX' into element: 'Code'
+2024-12-23 11:46:02.102202 - Find Element - Pass - Located element: 'discount_value'
+2024-12-23 11:46:02.135059 - Send Keys - Pass - Entered '77' into element: 'Number'
+2024-12-23 11:46:05.214577 - Find Element - Pass - Located element: 'totalUsageCount'
+2024-12-23 11:46:05.236539 - Send Keys - Pass - Entered '57' into element: 'Number'
+2024-12-23 11:46:05.298280 - Find Element - Pass - Located element: 'expiryDate'
+2024-12-23 11:46:05.325659 - Send Keys - Pass - Entered '30-09-2025' into element: 'DD-MM-YYYY'
+2024-12-23 11:46:05.427432 - Find Element - Pass - Located element: 'Percentage
+                            Value'
+2024-12-23 11:46:05.532213 - Click - Pass - Clicked element: 'Create Coupon'
+2024-12-23 11:46:12.661394 - Find Element - Pass - Located element: 'HEXXX'
+2024-12-23 11:46:12.689561 - Click - Pass - Clicked element: 'HEXXX'
+2024-12-23 11:46:51.883856 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 11:46:51.930044 - Find Element - Pass - Located element: 'username'
+2024-12-23 11:46:51.961062 - Find Element - Pass - Located element: 'password'
+2024-12-23 11:46:52.051324 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 11:46:52.170644 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 11:46:57.037168 - Find Element - Pass - Located element: 'Coupons'
+2024-12-23 11:46:57.064902 - Click - Pass - Clicked element: 'Coupons'
+2024-12-23 11:47:02.321175 - Find Element - Pass - Located element: 'startDate'
+2024-12-23 11:47:02.341370 - Find Element - Pass - Located element: 'endDate'
+2024-12-23 11:47:02.364773 - Send Keys - Pass - Entered '07-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 11:47:02.490165 - Send Keys - Pass - Entered '19-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 11:47:02.589156 - Find Element - Pass - Located element: 'Select offer
+                        
+                            HEXXX
+                        
+                            christmas
+                        
+                            NewYear
+                        
+                            111
+                        
+                            Personal
+                        
+                            GOA
+                        
+                            Diwali
+                        
+                            qxNXfQyB
+                        
+                            sWsrekYc
+                        
+                            hXOhVMhE
+                        
+                            dpyZzNVF
+                        
+                            idCbNNdq
+                        
+                            FmsgJNRE
+                        
+                            FzggUbXM
+                        
+                            kkqauXAI
+                        
+                            jxTxTpJY
+                        
+                            pWTTkfMU
+                        
+                            UqzggWoI
+                        
+                            DINojGpH
+                        
+                            GeHhwYEy
+                        
+                            LWkoXcEE
+                        
+                            kk
+                        
+                            DBCACABACDAADAC
+                        
+                            DBAAACBDDBDBBBA
+                        
+                            DCABAADBDDBCCBC
+                        
+                            DCCBAADABCCDCBB
+                        
+                            fe8ff315
+                        
+                            HEXADECIMAL
+                        
+                            spl38
+                        
+                            spl38
+                        
+                            spl328'
+2024-12-23 11:47:02.684076 - Find Element - Pass - Located element: 'Select Status
+                        NEW
+                        EXHAUSTED
+                        EXPIRED'
+2024-12-23 11:47:05.783885 - Find Element - Pass - Located element: 'Search'
+2024-12-23 11:47:05.823087 - Click - Pass - Clicked element: 'Search'
+2024-12-23 11:47:09.217197 - Find Element - Pass - Located element: 'Reset all'
+2024-12-23 11:47:09.245462 - Click - Pass - Clicked element: 'Reset all'
+2024-12-23 11:47:13.097031 - Find Element - Pass - Located element: 'Create Coupon'
+2024-12-23 11:47:13.123652 - Click - Pass - Clicked element: 'Create Coupon'
+2024-12-23 11:47:16.210084 - Find Element - Pass - Located element: 'coupon_name'
+2024-12-23 11:47:16.233971 - Send Keys - Pass - Entered 'JDkZRTVg' into element: 'Name'
+2024-12-23 11:47:16.808996 - Find Element - Pass - Located element: 'coupon_code'
+2024-12-23 11:47:16.831150 - Send Keys - Pass - Entered '7IZLR' into element: 'Code'
+2024-12-23 11:47:21.920452 - Find Element - Pass - Located element: 'discount_value'
+2024-12-23 11:47:21.945849 - Send Keys - Pass - Entered '59' into element: 'Number'
+2024-12-23 11:47:25.021177 - Find Element - Pass - Located element: 'totalUsageCount'
+2024-12-23 11:47:25.042266 - Send Keys - Pass - Entered '53' into element: 'Number'
+2024-12-23 11:47:25.111177 - Find Element - Pass - Located element: 'expiryDate'
+2024-12-23 11:47:25.137080 - Send Keys - Pass - Entered '27-08-2025' into element: 'DD-MM-YYYY'
+2024-12-23 12:04:02.703702 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 12:04:02.747729 - Find Element - Pass - Located element: 'username'
+2024-12-23 12:04:02.782774 - Find Element - Pass - Located element: 'password'
+2024-12-23 12:04:02.875830 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 12:04:02.995983 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 12:04:14.501350 - Find Element - Pass - Located element: 'Coupons'
+2024-12-23 12:04:14.580716 - Click - Pass - Clicked element: 'Coupons'
+2024-12-23 12:04:21.265166 - Find Element - Pass - Located element: 'startDate'
+2024-12-23 12:04:21.301571 - Find Element - Pass - Located element: 'endDate'
+2024-12-23 12:04:21.349047 - Send Keys - Pass - Entered '10-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 12:04:21.536539 - Send Keys - Pass - Entered '30-12-2024' into element: 'DD-MM-YYYY'
+2024-12-23 12:04:21.717484 - Find Element - Pass - Located element: 'Select offer
+                        
+                            HEXXX
+                        
+                            christmas
+                        
+                            NewYear
+                        
+                            111
+                        
+                            Personal
+                        
+                            GOA
+                        
+                            Diwali
+                        
+                            qxNXfQyB
+                        
+                            sWsrekYc
+                        
+                            hXOhVMhE
+                        
+                            dpyZzNVF
+                        
+                            idCbNNdq
+                        
+                            FmsgJNRE
+                        
+                            FzggUbXM
+                        
+                            kkqauXAI
+                        
+                            jxTxTpJY
+                        
+                            pWTTkfMU
+                        
+                            UqzggWoI
+                        
+                            DINojGpH
+                        
+                            GeHhwYEy
+                        
+                            LWkoXcEE
+                        
+                            kk
+                        
+                            DBCACABACDAADAC
+                        
+                            DBAAACBDDBDBBBA
+                        
+                            DCABAADBDDBCCBC
+                        
+                            DCCBAADABCCDCBB
+                        
+                            fe8ff315
+                        
+                            HEXADECIMAL
+                        
+                            spl38
+                        
+                            spl38
+                        
+                            spl328'
+2024-12-23 12:04:22.106900 - Find Element - Pass - Located element: 'Select Status
+                        NEW
+                        EXHAUSTED
+                        EXPIRED'
+2024-12-23 12:04:25.333277 - Find Element - Pass - Located element: 'Search'
+2024-12-23 12:04:25.399115 - Click - Pass - Clicked element: 'Search'
+2024-12-23 12:04:28.965911 - Find Element - Pass - Located element: 'Reset all'
+2024-12-23 12:04:29.024865 - Click - Pass - Clicked element: 'Reset all'
+2024-12-23 12:04:33.110728 - Find Element - Pass - Located element: 'Create Coupon'
+2024-12-23 12:04:33.147241 - Click - Pass - Clicked element: 'Create Coupon'
+2024-12-23 12:04:36.251538 - Find Element - Pass - Located element: 'coupon_name'
+2024-12-23 12:04:36.301179 - Send Keys - Pass - Entered 'xiwXLUPK' into element: 'Name'
+2024-12-23 12:04:36.795503 - Find Element - Pass - Located element: 'coupon_code'
+2024-12-23 12:04:36.820861 - Send Keys - Pass - Entered 'ZMJKA' into element: 'Code'
+2024-12-23 12:04:41.887064 - Find Element - Pass - Located element: 'discount_value'
+2024-12-23 12:04:41.923157 - Send Keys - Pass - Entered '67' into element: 'Number'
+2024-12-23 12:04:45.001634 - Find Element - Pass - Located element: 'totalUsageCount'
+2024-12-23 12:04:45.029644 - Send Keys - Pass - Entered '60' into element: 'Number'
+2024-12-23 12:04:45.093152 - Find Element - Pass - Located element: 'expiryDate'
+2024-12-23 12:04:45.128818 - Send Keys - Pass - Entered '25-08-2025' into element: 'DD-MM-YYYY'
+2024-12-25 12:53:49.111335 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 12:53:49.272684 - Find Element - Pass - Located element: 'username'
+2024-12-25 12:53:49.336259 - Find Element - Pass - Located element: 'password'
+2024-12-25 12:53:49.440591 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 12:53:49.582199 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 12:53:56.643370 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 12:53:59.692147 - Find Element - Pass - Located element: 'QR Code'
+2024-12-25 12:53:59.750505 - Click - Pass - Clicked element: 'QR Code'
+2024-12-25 12:54:01.886042 - Find Element - Pass - Located element: 'Share on whatsapp'
+2024-12-25 12:54:03.239012 - Click - Pass - Clicked element: 'Share on whatsapp'
+2024-12-25 12:54:08.412884 - Find Element - Pass - Located element: 'Cancel'
+2024-12-25 12:54:08.495774 - Click - Pass - Clicked element: 'Cancel'
+2024-12-25 12:54:12.817725 - Quit Browser - Pass - Closed the browser
+2024-12-25 12:55:38.862583 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 12:55:38.930130 - Find Element - Pass - Located element: 'username'
+2024-12-25 12:55:38.985230 - Find Element - Pass - Located element: 'password'
+2024-12-25 12:55:39.102039 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 12:55:39.283047 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 12:55:46.010635 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 12:55:49.064887 - Find Element - Pass - Located element: 'QR Code'
+2024-12-25 12:55:49.138398 - Click - Pass - Clicked element: 'QR Code'
+2024-12-25 12:55:51.279425 - Find Element - Pass - Located element: 'http://185.199.53.169:5000/public/new-lead'
+2024-12-25 12:55:51.365601 - Click - Pass - Clicked element: 'http://185.199.53.169:5000/public/new-lead'
+2024-12-25 12:55:53.615866 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 12:55:53.678083 - Send Keys - Pass - Entered 'Sumeet' into element: 'First name'
+2024-12-25 12:55:53.883551 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 12:55:53.939550 - Send Keys - Pass - Entered 'Muley' into element: 'Last name'
+2024-12-25 12:55:54.065502 - Find Element - Pass - Located element: 'phone'
+2024-12-25 12:55:54.177052 - Send Keys - Pass - Entered '9311299510' into element: 'xxxxxxxxxx'
+2024-12-25 12:55:57.278150 - Execute Script - Pass - Executed script: 'document.querySelector('#leadStatus').click();' with arguments: ()
+2024-12-25 12:55:57.330137 - Find Element - Pass - Located element: 'Lead status
+                Interested
+                Not interested
+                New
+                Free
+                Customer
+                App user
+                Spam'
+2024-12-25 12:55:57.417532 - Click - Pass - Clicked element: 'Lead status
+                Interested
+                Not interested
+                New
+                Free
+                Customer
+                App user
+                Spam'
+2024-12-25 12:55:59.523352 - Execute Script - Pass - Executed script: 'document.querySelector('#leadSource').click();' with arguments: ()
+2024-12-25 12:55:59.571514 - Find Element - Pass - Located element: 'Lead source
+                Referral
+                Instagram
+                Facebook
+                Google
+                Website
+                Word of mouth
+                General
+                Newspaper
+                Walk in'
+2024-12-25 12:55:59.635140 - Click - Pass - Clicked element: 'Lead source
+                Referral
+                Instagram
+                Facebook
+                Google
+                Website
+                Word of mouth
+                General
+                Newspaper
+                Walk in'
+2024-12-25 12:56:01.725770 - Execute Script - Pass - Executed script: 'document.querySelector('#country').click();' with arguments: ()
+2024-12-25 12:56:01.818935 - Find Element - Pass - Located element: 'Select Country
+              India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 12:56:01.932873 - Click - Pass - Clicked element: 'Select Country
+              India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 12:56:04.111129 - Find Element - Pass - Located element: 'Select state
+Maharashtra
+Andaman and Nicobar Islands
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra and Nagar Haveli
+Daman and Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu and Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Narora
+Odisha
+Pondicherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal'
+2024-12-25 12:56:07.375390 - Find Element - Pass - Located element: 'Select city
+Achabal
+Akhnur
+Anantnag
+Arnia
+Awantipora
+Badami Bagh
+Bandipur
+Banihal
+Baramula
+Baramulla
+Bari Brahmana
+Bashohli
+Batote
+Bhaderwah
+Bijbiara
+Billawar
+Birwah
+Bishna
+Budgam
+Charari Sharief
+Chenani
+Doda
+Duru-Verinag
+Gandarbat
+Gho Manhasan
+Gorah Salathian
+Gulmarg
+Hajan
+Handwara
+Hiranagar
+Jammu
+Jammu Cantonment
+Jammu Tawi
+Jourian
+Kargil
+Kathua
+Katra
+Khan Sahib
+Khour
+Khrew
+Kishtwar
+Kud
+Kukernag
+Kulgam
+Kunzer
+Kupwara
+Lakhenpur
+Leh
+Magam
+Mattan
+Naushehra
+Pahalgam
+Pampore
+Parole
+Pattan
+Pulwama
+Punch
+Qazigund
+Rajauri
+Ramban
+Ramgarh
+Ramnagar
+Ranbirsingh Pora
+Reasi
+Rehambal
+Samba
+Shupiyan
+Sopur
+Srinagar
+Sumbal
+Sunderbani
+Talwara
+Thanamandi
+Tral
+Udhampur
+Uri
+Vijaypur'
+2024-12-25 12:56:07.671316 - Find Element - Pass - Located element: 'Submit'
+2024-12-25 12:56:07.848566 - Click - Pass - Clicked element: 'Submit'
+2024-12-25 12:56:08.905877 - Find Element - Pass - Located element: 'name'
+2024-12-25 12:56:08.980650 - Send Keys - Pass - Entered 'John Doe' into element: 'name'
+2024-12-25 12:56:12.142745 - Find Element - Pass - Located element: 'Lead Source
+                 Referral
+                Instagram
+                Facebook
+                Google
+                Website
+                 Word of Mouth
+                General
+                Newspaper'
+2024-12-25 12:56:15.266556 - Find Element - Pass - Located element: 'ecName'
+2024-12-25 12:56:15.330313 - Send Keys - Pass - Entered 'Johnson Doe' into element: 'name'
+2024-12-25 12:56:18.474735 - Find Element - Pass - Located element: 'Mother
+                Father
+                Son
+                Daughter
+                Spouse
+                Friend
+                Sibling
+                Other'
+2024-12-25 12:56:21.590898 - Find Element - Pass - Located element: 'ecWhatsappMob'
+2024-12-25 12:56:21.732451 - Send Keys - Pass - Entered '9555884412' into element: 'xxxxxxxxxx'
+2024-12-25 12:56:24.935278 - Find Element - Pass - Located element: 'servicesOfInterest'
+2024-12-25 12:56:24.997355 - Send Keys - Pass - Entered 'helpNeededFromLovenheal' into element: 'Type interest'
+2024-12-25 12:56:28.207018 - Find Element - Pass - Located element: 'address'
+2024-12-25 12:56:28.275095 - Send Keys - Pass - Entered '123 Main St, Springfield' into element: 'address'
+2024-12-25 12:56:31.498919 - Find Element - Pass - Located element: 'ecAddress'
+2024-12-25 12:56:31.546660 - Send Keys - Pass - Entered '123 Main St, Springfield' into element: 'ecAddress'
+2024-12-25 12:56:34.732649 - Find Element - Pass - Located element: 'whatsappMob'
+2024-12-25 12:56:34.870487 - Send Keys - Pass - Entered '9091916764' into element: 'xxxxxxxxxx'
+2024-12-25 12:56:38.220237 - Find Element - Pass - Located element: 'email'
+2024-12-25 12:56:38.452685 - Send Keys - Pass - Entered 'contact5@example.org' into element: 'info@gmail.com'
+2024-12-25 12:56:41.643774 - Find Element - Pass - Located element: 'agreeToTerms'
+2024-12-25 12:56:41.722304 - Click - Pass - Clicked element: 'agreeToTerms'
+2024-12-25 12:56:44.890944 - Find Element - Pass - Located element: 'file'
+2024-12-25 12:56:44.934804 - Send Keys - Pass - Entered 'C:\Users\bakal\OneDrive\Desktop\HC143.png' into element: 'file'
+2024-12-25 12:56:48.040120 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<logs.LoggingElement (session="7ec37cf527cc33d5ae8b3a0b1ac5f993", element="f.78E80E3AE1D8D2022E49ECBC0682BA04.d.FEC75998FFE8EDDF913311E4D49F0A9F.e.368")>,)
+2024-12-25 12:56:54.434387 - Find Element - Pass - Located element: 'Close'
+2024-12-25 12:56:54.503587 - Click - Pass - Clicked element: 'Close'
+2024-12-25 12:57:11.885218 - Quit Browser - Pass - Closed the browser
+2024-12-25 13:14:05.803998 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:14:06.006771 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:14:06.056880 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:14:06.139267 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:14:06.277178 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:14:12.620008 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:14:15.666553 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:14:15.717112 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:14:18.847551 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:14:18.918990 - Send Keys - Pass - Entered 'Amisha' into element: 'First name'
+2024-12-25 13:14:19.068289 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:14:19.127894 - Send Keys - Pass - Entered 'Kakde' into element: 'Last name'
+2024-12-25 13:14:19.284299 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:14:19.407258 - Send Keys - Pass - Entered '9518987576' into element: '9999111000'
+2024-12-25 13:14:22.566452 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:14:22.598906 - Send Keys - Pass - Entered 'r8pepdwm@example.com' into element: 'info@gmail.com'
+2024-12-25 13:14:22.761204 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:14:22.849758 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:14:25.003249 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:14:25.036092 - Send Keys - Pass - Entered '08-11-1982' into element: 'DD-MM-YYYY'
+2024-12-25 13:14:25.212109 - Find Element - Pass - Located element: 'Lead Status
+                                Interested
+                                Not Interested
+                                New
+                                Free
+                                Customer
+                                App user
+                                Spam'
+2024-12-25 13:14:28.443013 - Find Element - Pass - Located element: 'Lead Source
+                                Referral
+                                Instagram
+                                Facebook
+                                Google
+                                Website
+                                Word of Mouth
+                                General
+                                Newspaper
+                                Walk In'
+2024-12-25 13:14:31.557487 - Find Element - Pass - Located element: 'Select Country
+                            India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 13:14:34.810647 - Find Element - Pass - Located element: 'Select state
+Ain
+Aisne
+Albi Le Sequestre
+Allier
+Alpes-Cote dAzur
+Alpes-de-Haute-Provence
+Alpes-Maritimes
+Alsace
+Aquitaine
+Ardeche
+Ardennes
+Ariege
+Aube
+Aude
+Auvergne
+Aveyron
+Bas-Rhin
+Basse-Normandie
+Bouches-du-Rhone
+Bourgogne
+Bretagne
+Brittany
+Burgundy
+Calvados
+Cantal
+Cedex
+Centre
+Charente
+Charente-Maritime
+Cher
+Correze
+Corse-du-Sud
+Cote-d'Or
+Cotes-d'Armor
+Creuse
+Crolles
+Deux-Sevres
+Dordogne
+Doubs
+Drome
+Essonne
+Eure
+Eure-et-Loir
+Feucherolles
+Finistere
+Franche-Comte
+Gard
+Gers
+Gironde
+Haut-Rhin
+Haute-Corse
+Haute-Garonne
+Haute-Loire
+Haute-Marne
+Haute-Saone
+Haute-Savoie
+Haute-Vienne
+Hautes-Alpes
+Hautes-Pyrenees
+Hauts-de-Seine
+Herault
+Ile-de-France
+Ille-et-Vilaine
+Indre
+Indre-et-Loire
+Isere
+Jura
+Klagenfurt
+Landes
+Languedoc-Roussillon
+Larcay
+Le Castellet
+Le Creusot
+Limousin
+Loir-et-Cher
+Loire
+Loire-Atlantique
+Loiret
+Lorraine
+Lot
+Lot-et-Garonne
+Lower Normandy
+Lozere
+Maine-et-Loire
+Manche
+Marne
+Mayenne
+Meurthe-et-Moselle
+Meuse
+Midi-Pyrenees
+Morbihan
+Moselle
+Nievre
+Nord
+Nord-Pas-de-Calais
+Oise
+Orne
+Paris
+Pas-de-Calais
+Pays de la Loire
+Pays-de-la-Loire
+Picardy
+Puy-de-Dome
+Pyrenees-Atlantiques
+Pyrenees-Orientales
+Quelmes
+Rhone
+Rhone-Alpes
+Saint Ouen
+Saint Viatre
+Saone-et-Loire
+Sarthe
+Savoie
+Seine-et-Marne
+Seine-Maritime
+Seine-Saint-Denis
+Somme
+Sophia Antipolis
+Souvans
+Tarn
+Tarn-et-Garonne
+Territoire de Belfort
+Treignac
+Upper Normandy
+Val-d'Oise
+Val-de-Marne
+Var
+Vaucluse
+Vellise
+Vendee
+Vienne
+Vosges
+Yonne
+Yvelines'
+2024-12-25 13:14:37.975978 - Find Element - Pass - Located element: 'Select city
+Chateauroux
+Issoudun'
+2024-12-25 13:14:43.098987 - Find Element - Pass - Located element: 'AddressLine_1'
+2024-12-25 13:14:43.130706 - Send Keys - Pass - Entered 'pujacGPO' into element: 'Address line1'
+2024-12-25 13:14:43.262960 - Find Element - Pass - Located element: 'notes'
+2024-12-25 13:14:43.360160 - Send Keys - Pass - Entered 'TdtuclCWlKjxfuXYpqhdAfGPIJSQFoorXHUqgGuAYLDBpRMVtiqTtpTRgPpdmlXxzilHzhAviPfKowniqbgIYiksHkwMTDaHQDhb' into element: 'notes'
+2024-12-25 13:14:45.825638 - Find Element - Pass - Located element: 'Save'
+2024-12-25 13:14:45.882647 - Click - Pass - Clicked element: 'Save'
+2024-12-25 13:14:49.071838 - Find Element - Pass - Located element: 'button'
+2024-12-25 13:14:49.071838 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<logs.LoggingElement (session="764c211b98272abe4f9a70da3ca15ce7", element="f.76105EBC3D37CAFAB6A6D1D85A5CE455.d.41D04B8040694FCF5C7B72D5B3C96CC1.e.1232")>,)
+2024-12-25 13:14:49.159665 - Click - Pass - Clicked element: 'btn'
+2024-12-25 13:21:57.337494 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:21:57.407437 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:21:57.470234 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:21:57.583684 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:21:57.724697 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:22:04.377880 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:22:07.425493 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:22:07.501008 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:22:10.627383 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:22:10.691054 - Send Keys - Pass - Entered 'Shri' into element: 'First name'
+2024-12-25 13:22:10.812218 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:22:10.863075 - Send Keys - Pass - Entered 'Kakde' into element: 'Last name'
+2024-12-25 13:22:10.988477 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:22:11.128294 - Send Keys - Pass - Entered '9634033128' into element: '9999111000'
+2024-12-25 13:22:14.293804 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:22:14.325131 - Send Keys - Pass - Entered 'mppmm8v7@example.com' into element: 'info@gmail.com'
+2024-12-25 13:22:14.509802 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:22:14.600054 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:22:16.743639 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:22:16.771840 - Send Keys - Pass - Entered '07-07-1975' into element: 'DD-MM-YYYY'
+2024-12-25 13:22:16.929508 - Find Element - Pass - Located element: 'Lead Status
+                                Interested
+                                Not Interested
+                                New
+                                Free
+                                Customer
+                                App user
+                                Spam'
+2024-12-25 13:22:20.155380 - Find Element - Pass - Located element: 'Lead Source
+                                Referral
+                                Instagram
+                                Facebook
+                                Google
+                                Website
+                                Word of Mouth
+                                General
+                                Newspaper
+                                Walk In'
+2024-12-25 13:22:23.337100 - Find Element - Pass - Located element: 'Select Country
+                            India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 13:22:26.476273 - Find Element - Pass - Located element: 'Select state
+Singapore'
+2024-12-25 13:22:29.648358 - Find Element - Pass - Located element: 'Select city
+Singapore'
+2024-12-25 13:22:34.848091 - Find Element - Pass - Located element: 'AddressLine_1'
+2024-12-25 13:22:34.912782 - Send Keys - Pass - Entered 'rhsUrFGx' into element: 'Address line1'
+2024-12-25 13:22:35.056599 - Find Element - Pass - Located element: 'notes'
+2024-12-25 13:22:35.127183 - Send Keys - Pass - Entered 'gqQKOQasvToMRJqoyoPHxcmYYnlgAYcjYOFaPcuJgtznhiXknzRoBTXnTAZdKASIirZuHXtCXyDociGrRDtYQXpApOcjPfOSHCvU' into element: 'notes'
+2024-12-25 13:22:37.536580 - Find Element - Pass - Located element: 'Save'
+2024-12-25 13:22:37.616064 - Click - Pass - Clicked element: 'Save'
+2024-12-25 13:22:41.047493 - Find Element - Pass - Located element: 'div'
+2024-12-25 13:22:41.047493 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<logs.LoggingElement (session="f7ed236ea16d546fb35d711beab92227", element="f.A2475D3CBD7DF210984D3F66EF13BD4C.d.0854A011EB07E53B544A9A521679FE8A.e.857")>,)
+2024-12-25 13:22:41.151438 - Click - Pass - Clicked element: 'modal'
+2024-12-25 13:23:57.274154 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:23:57.325043 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:23:57.370204 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:23:57.492996 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:23:57.628757 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:24:04.433875 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:24:07.484063 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:24:07.535099 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:24:10.646336 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:24:10.709496 - Send Keys - Pass - Entered 'Swara' into element: 'First name'
+2024-12-25 13:24:10.856808 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:24:10.913357 - Send Keys - Pass - Entered 'Bakal' into element: 'Last name'
+2024-12-25 13:24:11.063338 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:24:11.186220 - Send Keys - Pass - Entered '9010145380' into element: '9999111000'
+2024-12-25 13:24:14.350806 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:24:14.379317 - Send Keys - Pass - Entered 'vgjgucvo@example.com' into element: 'info@gmail.com'
+2024-12-25 13:24:14.545100 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:24:14.618707 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:24:16.733192 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:24:16.764781 - Send Keys - Pass - Entered '27-05-1994' into element: 'DD-MM-YYYY'
+2024-12-25 13:24:16.928792 - Find Element - Pass - Located element: 'Lead Status
+                                Interested
+                                Not Interested
+                                New
+                                Free
+                                Customer
+                                App user
+                                Spam'
+2024-12-25 13:24:20.146383 - Find Element - Pass - Located element: 'Lead Source
+                                Referral
+                                Instagram
+                                Facebook
+                                Google
+                                Website
+                                Word of Mouth
+                                General
+                                Newspaper
+                                Walk In'
+2024-12-25 13:24:23.289505 - Find Element - Pass - Located element: 'Select Country
+                            India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 13:24:26.483398 - Find Element - Pass - Located element: 'Select state
+Acharnes
+Ahaia
+Aitolia kai Akarnania
+Argolis
+Arkadia
+Arta
+Attica
+Attiki
+Ayion Oros
+Crete
+Dodekanisos
+Drama
+Evia
+Evritania
+Evros
+Evvoia
+Florina
+Fokis
+Fthiotis
+Grevena
+Halandri
+Halkidiki
+Hania
+Heraklion
+Hios
+Ilia
+Imathia
+Ioannina
+Iraklion
+Karditsa
+Kastoria
+Kavala
+Kefallinia
+Kerkira
+Kiklades
+Kilkis
+Korinthia
+Kozani
+Lakonia
+Larisa
+Lasithi
+Lesvos
+Levkas
+Magnisia
+Messinia
+Nomos Attikis
+Nomos Zakynthou
+Pella
+Pieria
+Piraios
+Preveza
+Rethimni
+Rodopi
+Samos
+Serrai
+Thesprotia
+Thessaloniki
+Trikala
+Voiotia
+West Greece
+Xanthi
+Zakinthos'
+2024-12-25 13:24:29.710190 - Find Element - Pass - Located element: 'Select city'
+2024-12-25 13:26:01.950496 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:26:01.996715 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:26:02.038448 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:26:02.145073 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:26:02.293559 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:26:09.915186 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:26:12.957628 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:26:13.019319 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:26:16.131305 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:26:16.193989 - Send Keys - Pass - Entered 'Krishna' into element: 'First name'
+2024-12-25 13:26:16.361791 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:26:16.411815 - Send Keys - Pass - Entered 'Bakal' into element: 'Last name'
+2024-12-25 13:26:16.572583 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:26:16.675394 - Send Keys - Pass - Entered '9630742365' into element: '9999111000'
+2024-12-25 13:26:19.832658 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:26:19.896086 - Send Keys - Pass - Entered '35eo7yo3@example.com' into element: 'info@gmail.com'
+2024-12-25 13:26:20.063645 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:26:20.135693 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:26:22.248827 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:26:22.310708 - Send Keys - Pass - Entered '23-07-1957' into element: 'DD-MM-YYYY'
+2024-12-25 13:26:45.116942 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:26:45.185450 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:26:45.241862 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:26:45.351049 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:26:45.465297 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:26:51.424953 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:26:54.457727 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:26:54.504705 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:26:57.638821 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:26:57.698766 - Send Keys - Pass - Entered 'Vivek' into element: 'First name'
+2024-12-25 13:26:57.858482 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:26:57.932117 - Send Keys - Pass - Entered 'Deshmukh' into element: 'Last name'
+2024-12-25 13:26:58.085723 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:26:58.206642 - Send Keys - Pass - Entered '9489415397' into element: '9999111000'
+2024-12-25 13:27:01.365144 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:27:01.411232 - Send Keys - Pass - Entered '0byq9epg@example.com' into element: 'info@gmail.com'
+2024-12-25 13:27:01.606144 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:27:01.674386 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:27:03.802161 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:27:03.832155 - Send Keys - Pass - Entered '23-09-2001' into element: 'DD-MM-YYYY'
+2024-12-25 13:27:04.023528 - Find Element - Pass - Located element: 'Lead Status
+                                Interested
+                                Not Interested
+                                New
+                                Free
+                                Customer
+                                App user
+                                Spam'
+2024-12-25 13:27:07.250454 - Find Element - Pass - Located element: 'Lead Source
+                                Referral
+                                Instagram
+                                Facebook
+                                Google
+                                Website
+                                Word of Mouth
+                                General
+                                Newspaper
+                                Walk In'
+2024-12-25 13:27:10.405266 - Find Element - Pass - Located element: 'Select Country
+                            India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 13:27:13.631271 - Find Element - Pass - Located element: 'Select state
+Central
+Eastern
+Northern
+South Pacific
+Western'
+2024-12-25 13:27:16.794967 - Find Element - Pass - Located element: 'Select city
+Adjumani
+Amudat
+Apac
+Arua
+Chinsali
+Gharghur
+Gulu
+Isoka
+Kaabong
+Kabala
+Kambia
+Kasama
+Kitgum
+Koboko
+Korokade
+Kotido
+Kpandae
+Labasa
+Lira
+Lungi
+Lunsar
+Magburaka
+Makeni
+Mambolo
+Mbala
+Mellieha
+Mgarr
+Moroto
+Mosta
+Moyamba
+Moyo
+Mpika
+Nakapiripirit
+Naxxar
+Nebbi
+Pader
+Paidha
+Pakwach
+Pepel
+Port Loko
+Salaga
+San Pawl il-Bahar
+Savelugu
+Savusavu
+Tamale
+Yele
+Yendi
+Yumbe'
+2024-12-25 13:27:21.964766 - Find Element - Pass - Located element: 'AddressLine_1'
+2024-12-25 13:27:22.044221 - Send Keys - Pass - Entered 'MAlyyEvB' into element: 'Address line1'
+2024-12-25 13:27:22.205779 - Find Element - Pass - Located element: 'notes'
+2024-12-25 13:27:22.287654 - Send Keys - Pass - Entered 'ceiIlFTsuPrnkuovHJVroSZdhrGFMobsvnGKzAwiKEnWcUUndvOBVJnGzWjPSgvmOihqfpmCiiRQJBHRdSKnhcoxvqIsHMeePUuU' into element: 'notes'
+2024-12-25 13:27:24.721296 - Find Element - Pass - Located element: 'Save'
+2024-12-25 13:27:24.804189 - Click - Pass - Clicked element: 'Save'
+2024-12-25 13:27:28.501249 - Find Element - Pass - Located element: 'div'
+2024-12-25 13:28:36.302570 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:28:36.350846 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:28:36.396558 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:28:36.504478 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:28:36.631719 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:28:43.803757 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:28:46.851539 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:28:46.913704 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:28:50.021355 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:28:50.059621 - Send Keys - Pass - Entered 'Krishna' into element: 'First name'
+2024-12-25 13:28:50.224305 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:28:50.291788 - Send Keys - Pass - Entered 'Sutar' into element: 'Last name'
+2024-12-25 13:28:50.442654 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:28:50.574016 - Send Keys - Pass - Entered '9781223984' into element: '9999111000'
+2024-12-25 13:28:53.796302 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:28:53.865199 - Send Keys - Pass - Entered 'u4hhh7k8@example.com' into element: 'info@gmail.com'
+2024-12-25 13:28:54.043325 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:28:54.108146 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:28:56.233863 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:28:56.277361 - Send Keys - Pass - Entered '25-05-1990' into element: 'DD-MM-YYYY'
+2024-12-25 13:28:56.434197 - Find Element - Pass - Located element: 'Lead Status
+                                Interested
+                                Not Interested
+                                New
+                                Free
+                                Customer
+                                App user
+                                Spam'
+2024-12-25 13:28:59.626293 - Find Element - Pass - Located element: 'Lead Source
+                                Referral
+                                Instagram
+                                Facebook
+                                Google
+                                Website
+                                Word of Mouth
+                                General
+                                Newspaper
+                                Walk In'
+2024-12-25 13:29:02.787765 - Find Element - Pass - Located element: 'Select Country
+                            India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 13:29:05.972857 - Find Element - Pass - Located element: 'Select state
+Maharashtra
+Andaman and Nicobar Islands
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra and Nagar Haveli
+Daman and Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu and Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Narora
+Odisha
+Pondicherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal'
+2024-12-25 13:29:09.185386 - Find Element - Pass - Located element: 'Select city
+Amarpur
+Ara
+Araria
+Areraj
+Asarganj
+Aurangabad
+Bagaha
+Bahadurganj
+Bairgania
+Bakhtiyarpur
+Banka
+Banmankhi
+Bar Bigha
+Barauli
+Barauni Oil Township
+Barh
+Barhiya
+Bariapur
+Baruni
+Begusarai
+Behea
+Belsand
+Bettiah
+Bhabua
+Bhagalpur
+Bhimnagar
+Bhojpur
+Bihar
+Bihar Sharif
+Bihariganj
+Bikramganj
+Birpur
+Bodh Gaya
+Buxar
+Chakia
+Chanpatia
+Chhapra
+Chhatapur
+Colgong
+Dalsingh Sarai
+Darbhanga
+Daudnagar
+Dehri
+Dhaka
+Dighwara
+Dinapur
+Dinapur Cantonment
+Dumra
+Dumraon
+Fatwa
+Forbesganj
+Gaya
+Gazipur
+Ghoghardiha
+Gogri Jamalpur
+Gopalganj
+Habibpur
+Hajipur
+Hasanpur
+Hazaribagh
+Hilsa
+Hisua
+Islampur
+Jagdispur
+Jahanabad
+Jamalpur
+Jamhaur
+Jamui
+Janakpur Road
+Janpur
+Jaynagar
+Jha Jha
+Jhanjharpur
+Jogbani
+Kanti
+Kasba
+Kataiya
+Katihar
+Khagaria
+Khagaul
+Kharagpur
+Khusrupur
+Kishanganj
+Koath
+Koilwar
+Lakhisarai
+Lalganj
+Lauthaha
+Madhepura
+Madhubani
+Maharajganj
+Mahnar Bazar
+Mairwa
+Makhdumpur
+Maner
+Manihari
+Marhaura
+Masaurhi
+Mirganj
+Mohiuddinagar
+Mokama
+Motihari
+Motipur
+Munger
+Murliganj
+Muzaffarpur
+Nabinagar
+Narkatiaganj
+Nasriganj
+Natwar
+Naugachhia
+Nawada
+Nirmali
+Nokha
+Paharpur
+Patna
+Phulwari
+Piro
+Purnia
+Pusa
+Rafiganj
+Raghunathpur
+Rajgir
+Ramnagar
+Raxaul
+Revelganj
+Rusera
+Sagauli
+Saharsa
+Samastipur
+Sasaram
+Shahpur
+Shaikhpura
+Sherghati
+Shivhar
+Silao
+Sitamarhi
+Siwan
+Sonepur
+Sultanganj
+Supaul
+Teghra
+Tekari
+Thakurganj
+Vaishali
+Waris Aliganj'
+2024-12-25 13:29:14.347333 - Find Element - Pass - Located element: 'AddressLine_1'
+2024-12-25 13:29:14.380854 - Send Keys - Pass - Entered 'BGwiQSkO' into element: 'Address line1'
+2024-12-25 13:29:14.518432 - Find Element - Pass - Located element: 'notes'
+2024-12-25 13:29:14.590111 - Send Keys - Pass - Entered 'sVwwMCcfTQfohjpxXzMMlvMZNPzxOCxtqpBleTEkvZaZOHhTpkkjzGmhKrfRSklWMbeszdrWfViceHjXCacHnvUllVnztOKgiwxO' into element: 'notes'
+2024-12-25 13:29:17.033203 - Find Element - Pass - Located element: 'Save'
+2024-12-25 13:29:17.106329 - Click - Pass - Clicked element: 'Save'
+2024-12-25 13:29:20.296809 - Find Element - Pass - Located element: 'div'
+2024-12-25 13:29:20.387790 - Find Element - Pass - Located element: 'button'
+2024-12-25 13:29:20.454418 - Click - Pass - Clicked element: 'btn'
+2024-12-25 13:43:53.307262 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:43:53.425769 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:43:53.499412 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:43:53.736399 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:43:53.998319 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:43:58.051312 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:44:01.117765 - Find Element - Pass - Located element: 'New'
+2024-12-25 13:44:01.249959 - Click - Pass - Clicked element: 'New'
+2024-12-25 13:44:04.508949 - Find Element - Pass - Located element: 'firstName'
+2024-12-25 13:44:04.556577 - Send Keys - Pass - Entered 'Shri' into element: 'First name'
+2024-12-25 13:44:04.689340 - Find Element - Pass - Located element: 'lastName'
+2024-12-25 13:44:04.750021 - Send Keys - Pass - Entered 'Bakal' into element: 'Last name'
+2024-12-25 13:44:04.905442 - Find Element - Pass - Located element: 'phone'
+2024-12-25 13:44:05.001448 - Send Keys - Pass - Entered '9580514845' into element: '9999111000'
+2024-12-25 13:44:08.148938 - Find Element - Pass - Located element: 'email'
+2024-12-25 13:44:08.256286 - Send Keys - Pass - Entered 'lht0a30v@example.com' into element: 'info@gmail.com'
+2024-12-25 13:44:08.479883 - Find Element - Pass - Located element: 'Gender'
+2024-12-25 13:44:08.550965 - Click - Pass - Clicked element: 'Gender'
+2024-12-25 13:44:10.759723 - Find Element - Pass - Located element: 'dob'
+2024-12-25 13:44:10.846692 - Send Keys - Pass - Entered '06-08-1991' into element: 'DD-MM-YYYY'
+2024-12-25 13:44:11.096003 - Find Element - Pass - Located element: 'Lead Status
+                                Interested
+                                Not Interested
+                                New
+                                Free
+                                Customer
+                                App user
+                                Spam'
+2024-12-25 13:44:14.297722 - Find Element - Pass - Located element: 'Lead Source
+                                Referral
+                                Instagram
+                                Facebook
+                                Google
+                                Website
+                                Word of Mouth
+                                General
+                                Newspaper
+                                Walk In'
+2024-12-25 13:44:17.633623 - Find Element - Pass - Located element: 'Select Country
+                            India
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic Of The Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey and Alderney
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Honduras
+Hong Kong S.A.R.
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea North
+Korea South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau S.A.R.
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Man (Isle of)
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands The
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua new Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic Of The Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Smaller Territories of the UK
+Solomon Islands
+Somalia
+South Africa
+South Georgia
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State (Holy See)
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (US)
+Wallis And Futuna Islands
+Western Sahara
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe'
+2024-12-25 13:44:20.893639 - Find Element - Pass - Located element: 'Select state
+Aisen
+Antofagasta
+Araucania
+Atacama
+Bio Bio
+Coquimbo
+Libertador General Bernardo O'
+Los Lagos
+Magellanes
+Maule
+Metropolitana
+Metropolitana de Santiago
+Tarapaca
+Valparaiso'
+2024-12-25 13:44:24.146300 - Find Element - Pass - Located element: 'Select city
+Aisen
+Chile Chico
+Cisnes
+Cochrane
+Coihaique
+Guaitecas
+Lago Verde
+O'Higgins
+Rio Ibanez
+Tortel'
+2024-12-25 13:44:29.399847 - Find Element - Pass - Located element: 'AddressLine_1'
+2024-12-25 13:44:29.492627 - Send Keys - Pass - Entered 'LMuRWWgF' into element: 'Address line1'
+2024-12-25 13:44:29.694151 - Find Element - Pass - Located element: 'notes'
+2024-12-25 13:44:29.757882 - Send Keys - Pass - Entered 'ViWphHeypcBVhTxYizOaUPQSpdaoELmsXEwFdgnjYjsPIZLiCvIKsuMKUUsLtUfaOxxXUIXIuEcgcjQhCxNLDKLwtvRMosszxPpu' into element: 'notes'
+2024-12-25 13:44:32.151227 - Find Element - Pass - Located element: 'Save'
+2024-12-25 13:44:32.259756 - Click - Pass - Clicked element: 'Save'
+2024-12-25 13:44:35.555227 - Find Element - Pass - Located element: 'div'
+2024-12-25 13:44:40.824600 - Quit Browser - Pass - Closed the browser
+2024-12-25 13:54:35.222794 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:54:35.320456 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:54:35.381051 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:54:35.532261 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:54:35.743847 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:56:16.470204 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:56:16.518557 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:56:16.558633 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:56:16.672632 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:56:16.833946 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:56:24.924460 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:56:28.036249 - Find Element - Pass - Located element: 'input'
+2024-12-25 13:56:28.131179 - Click - Pass - Clicked element: 'form-check-input'
+2024-12-25 13:56:28.472051 - Click - Pass - Clicked element: 'form-check-input'
+2024-12-25 13:56:28.817074 - Click - Pass - Clicked element: 'form-check-input'
+2024-12-25 13:56:32.010141 - Find Element - Pass - Located element: 'Create Bulk Booking'
+2024-12-25 13:56:32.010141 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<logs.LoggingElement (session="fe1e4b8b3d39c9725f7648b6a5282337", element="f.EFF76A936FB412F1F95A6E143C3A6004.d.11D02D7AA4E18A77F41B9516EE2D30C1.e.198")>,)
+2024-12-25 13:56:32.099223 - Click - Pass - Clicked element: 'Create Bulk Booking'
+2024-12-25 13:58:45.791776 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 13:58:45.870571 - Find Element - Pass - Located element: 'username'
+2024-12-25 13:58:45.957733 - Find Element - Pass - Located element: 'password'
+2024-12-25 13:58:46.172980 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 13:58:46.369324 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 13:58:53.074147 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/marketing-leads
+2024-12-25 13:58:56.181112 - Find Element - Pass - Located element: 'input'
+2024-12-25 13:58:56.270344 - Click - Pass - Clicked element: 'form-check-input'
+2024-12-25 13:58:56.618847 - Click - Pass - Clicked element: 'form-check-input'
+2024-12-25 13:58:56.964564 - Click - Pass - Clicked element: 'form-check-input'
+2024-12-25 13:59:00.170467 - Find Element - Pass - Located element: 'Create Bulk Booking'
+2024-12-25 13:59:00.311956 - Click - Pass - Clicked element: 'Create Bulk Booking'
+2024-12-25 13:59:04.544257 - Find Element - Pass - Located element: 'select_date'
+2024-12-25 13:59:04.575923 - Execute Script - Pass - Executed script: 'document.getElementById('select_date').value = '30-01-2024';' with arguments: ()
+2024-12-25 13:59:08.984670 - Send Keys - Pass - Entered '0825' into element: 'HH:MM'
+2024-12-25 13:59:13.136327 - Execute Script - Pass - Executed script: 'document.getElementById('start_time_pm').checked = true;' with arguments: ()
+2024-12-25 13:59:13.479889 - Send Keys - Pass - Entered '0825' into element: 'HH:MM'
+2024-12-25 13:59:13.564276 - Execute Script - Pass - Executed script: 'document.getElementById('end_time_pm').checked = true;' with arguments: ()
+2024-12-25 13:59:17.648294 - Find Element - Pass - Located element: 'Create'
+2024-12-25 13:59:17.791029 - Click - Pass - Clicked element: 'Create'
+2024-12-25 13:59:21.016412 - Find Element - Pass - Located element: 'OK'
+2024-12-25 13:59:21.128487 - Click - Pass - Clicked element: 'OK'
+2024-12-25 13:59:26.533800 - Quit Browser - Pass - Closed the browser
+2024-12-26 13:58:30.620939 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 13:58:30.682586 - Find Element - Pass - Located element: 'username'
+2024-12-26 13:58:30.743742 - Find Element - Pass - Located element: 'password'
+2024-12-26 13:58:30.878083 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 13:58:31.028136 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 13:58:37.939528 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 13:58:37.939528 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 13:58:41.945455 - Find Element - Pass - Located element: 'New'
+2024-12-26 13:58:42.040566 - Click - Pass - Clicked element: 'New'
+2024-12-26 13:58:42.130640 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 13:58:42.776932 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 13:58:43.925126 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 13:58:44.034008 - Send Keys - Pass - Entered '18' into element: 'Experience in months'
+2024-12-26 13:58:46.169748 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 13:58:46.231324 - Send Keys - Pass - Entered '01:32' into element: 'HH:mm'
+2024-12-26 13:58:48.386558 - Find Element - Pass - Located element: 'div'
+2024-12-26 13:58:48.440894 - Find Element - Pass - Located element: 'start_time_period'
+2024-12-26 13:58:50.487777 - Find Element - Pass - Located element: 'End_timeInput'
+2024-12-26 13:58:50.575501 - Send Keys - Pass - Entered '04:13' into element: 'HH:mm'
+2024-12-26 13:58:52.723826 - Find Element - Pass - Located element: 'period'
+2024-12-26 13:58:54.782425 - Find Element - Pass - Located element: 'healingTimeMins'
+2024-12-26 13:58:54.947529 - Send Keys - Pass - Entered '5' into element: 'Healing time in minutes'
+2024-12-26 13:58:57.076450 - Find Element - Pass - Located element: 'healingsPerDay'
+2024-12-26 13:58:57.143111 - Send Keys - Pass - Entered '34' into element: 'Healings per day'
+2024-12-26 13:58:59.231623 - Find Element - Pass - Located element: 'Select
+                            False
+                            True'
+2024-12-26 13:59:01.330430 - Find Element - Pass - Located element: 'Select payout
+                            True
+                            False'
+2024-12-26 13:59:05.538256 - Find Element - Pass - Located element: 'Select Plan
+                            Free
+                            Premium
+                            LoveNHeal'
+2024-12-26 13:59:07.627868 - Find Element - Pass - Located element: 'Select
+                            True
+                            False'
+2024-12-26 13:59:11.889183 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:01:51.945003 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:01:52.010394 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:01:52.073960 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:01:52.193504 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:01:52.331561 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:01:58.335164 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:01:58.335164 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:02:02.890587 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:02:02.947699 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:02:03.080139 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:02:03.964930 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:02:05.470039 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 14:02:05.549673 - Send Keys - Pass - Entered '22' into element: 'Experience in months'
+2024-12-26 14:02:07.669883 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 14:02:07.782050 - Send Keys - Pass - Entered '21:53' into element: 'HH:mm'
+2024-12-26 14:02:09.900569 - Find Element - Pass - Located element: 'div'
+2024-12-26 14:02:09.924959 - Find Element - Pass - Located element: 'start_time_period'
+2024-12-26 14:02:11.974982 - Find Element - Pass - Located element: 'End_timeInput'
+2024-12-26 14:02:12.021706 - Send Keys - Pass - Entered '05:51' into element: 'HH:mm'
+2024-12-26 14:02:14.225306 - Find Element - Pass - Located element: 'period'
+2024-12-26 14:02:16.283089 - Find Element - Pass - Located element: 'healingTimeMins'
+2024-12-26 14:02:16.337494 - Send Keys - Pass - Entered '21' into element: 'Healing time in minutes'
+2024-12-26 14:02:18.605356 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:02:40.618154 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:02:40.678187 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:02:40.730544 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:02:40.836986 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:02:40.984796 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:02:47.078856 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:02:47.079405 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:02:50.928814 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:02:51.048742 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:02:51.176682 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:02:51.848447 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:02:53.029711 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 14:02:53.147815 - Send Keys - Pass - Entered '22' into element: 'Experience in months'
+2024-12-26 14:02:55.294054 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 14:02:55.392842 - Send Keys - Pass - Entered '04:03' into element: 'HH:mm'
+2024-12-26 14:02:57.530652 - Find Element - Pass - Located element: 'div'
+2024-12-26 14:02:57.561802 - Find Element - Pass - Located element: 'start_time_period'
+2024-12-26 14:02:57.600455 - Click - Pass - Clicked element: 'toggle-switch_start_time'
+2024-12-26 14:02:59.744086 - Find Element - Pass - Located element: 'End_timeInput'
+2024-12-26 14:02:59.829656 - Send Keys - Pass - Entered '02:42' into element: 'HH:mm'
+2024-12-26 14:03:04.159959 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:03:26.878410 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:03:26.937907 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:03:26.997757 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:03:27.131666 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:03:27.291680 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:03:32.863311 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:03:32.863311 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:03:36.756372 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:03:36.808824 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:03:36.896794 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:03:37.553396 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:03:42.721073 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 14:03:42.777339 - Send Keys - Pass - Entered '2' into element: 'Experience in months'
+2024-12-26 14:03:44.865234 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 14:03:44.977242 - Send Keys - Pass - Entered '00:39' into element: 'HH:mm'
+2024-12-26 14:03:47.136210 - Find Element - Pass - Located element: 'div'
+2024-12-26 14:03:47.158634 - Find Element - Pass - Located element: 'start_time_period'
+2024-12-26 14:03:47.206237 - Click - Pass - Clicked element: 'toggle-switch_start_time'
+2024-12-26 14:04:14.887401 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:06:18.259071 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:06:18.323523 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:06:18.412679 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:06:18.603377 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:06:18.785250 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:06:28.058186 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:06:28.058186 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:06:31.861588 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:06:31.908461 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:06:32.003188 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:06:32.719681 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:06:40.911670 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:07:16.283121 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:07:16.341338 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:07:16.393359 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:07:16.548595 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:07:16.745825 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:07:23.863909 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:07:23.863909 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:07:27.879189 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:07:27.990417 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:07:28.177917 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:07:28.852640 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:07:35.246124 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:12:03.464174 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:12:03.556955 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:12:03.641000 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:12:03.801555 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:12:04.035279 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:12:10.886413 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:12:10.886413 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:12:14.900530 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:12:14.963477 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:12:15.082070 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:12:15.704823 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:12:19.805742 - Find Element - Pass - Located element: 'Sumeet Mulay ( 84293 )'
+2024-12-26 14:12:22.044803 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:13:40.816969 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:13:40.894960 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:13:40.979030 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:13:41.115354 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:13:41.295798 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:13:49.499592 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:13:49.500602 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:13:53.404001 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:13:53.464927 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:13:53.595382 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:13:54.290806 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:13:58.419839 - Find Element - Pass - Located element: 'Sumeet Mulay ( 84293 )'
+2024-12-26 14:14:00.664367 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:15:46.447361 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:15:46.538601 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:15:46.647436 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:15:46.850732 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:15:47.078028 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:15:54.640904 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:15:54.640904 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:15:58.753742 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:15:58.806838 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:15:58.911479 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:15:59.651459 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:16:03.819686 - Find Element - Pass - Located element: 'Sumeet Mulay ( 84293 )'
+2024-12-26 14:16:06.112111 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:21:51.694661 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:21:51.766137 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:21:51.853943 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:21:52.040457 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:21:52.243958 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:22:03.576501 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:22:03.576501 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:22:07.963411 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:22:08.080253 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:22:08.604504 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:22:09.260564 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:22:13.371096 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="16a96ccc2da8fd69d45a51327ab223bc", element="f.1433A1AF44F19B9B9B504516CA5E7ABD.d.0F8F6C3F93041851F6E005FFE133E101.e.171")>,)
+2024-12-26 14:22:13.379170 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="16a96ccc2da8fd69d45a51327ab223bc", element="f.1433A1AF44F19B9B9B504516CA5E7ABD.d.0F8F6C3F93041851F6E005FFE133E101.e.171")>,)
+2024-12-26 14:22:17.451911 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 14:22:17.514520 - Send Keys - Pass - Entered '21' into element: 'Experience in months'
+2024-12-26 14:22:19.629289 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 14:22:19.688218 - Send Keys - Pass - Entered '14:50' into element: 'HH:mm'
+2024-12-26 14:22:21.857971 - Find Element - Pass - Located element: 'div'
+2024-12-26 14:22:21.913484 - Find Element - Pass - Located element: 'start_time_period'
+2024-12-26 14:22:24.031676 - Find Element - Pass - Located element: 'End_timeInput'
+2024-12-26 14:22:24.162288 - Send Keys - Pass - Entered '01:54' into element: 'HH:mm'
+2024-12-26 14:22:26.363922 - Find Element - Pass - Located element: 'period'
+2024-12-26 14:22:28.400794 - Find Element - Pass - Located element: 'healingTimeMins'
+2024-12-26 14:22:28.458017 - Send Keys - Pass - Entered '15' into element: 'Healing time in minutes'
+2024-12-26 14:22:30.712290 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:31:06.019758 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:31:06.100130 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:31:06.178452 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:31:06.374043 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:31:06.563823 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:31:14.588156 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:31:14.590232 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:31:18.610068 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:31:18.660097 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:31:18.770614 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:31:19.400135 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:31:23.503979 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="3b355603d33c234540c3ff6ae3476b9b", element="f.B5A67E5DCB5882ED183D6E988972E178.d.FC0B080B5F1AE8BFFBEEF14B50C0E7AD.e.172")>,)
+2024-12-26 14:31:23.512726 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="3b355603d33c234540c3ff6ae3476b9b", element="f.B5A67E5DCB5882ED183D6E988972E178.d.FC0B080B5F1AE8BFFBEEF14B50C0E7AD.e.172")>,)
+2024-12-26 14:31:27.602573 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 14:31:27.729583 - Send Keys - Pass - Entered '11' into element: 'Experience in months'
+2024-12-26 14:31:29.837685 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 14:31:29.941582 - Send Keys - Pass - Entered '0707' into element: 'HH:mm'
+2024-12-26 14:31:34.037858 - Execute Script - Pass - Executed script: 'document.getElementById('start_time_am').checked = true;' with arguments: ()
+2024-12-26 14:31:34.041458 - Execute Script - Pass - Executed script: 'document.getElementById('start_time_pm').checked = true;' with arguments: ()
+2024-12-26 14:31:34.083707 - Find Element - Pass - Located element: 'End_timeInput'
+2024-12-26 14:31:34.157411 - Send Keys - Pass - Entered '0756' into element: 'HH:mm'
+2024-12-26 14:31:34.210031 - Execute Script - Pass - Executed script: 'document.getElementById('end_time_am').checked = true;' with arguments: ()
+2024-12-26 14:31:34.223566 - Execute Script - Pass - Executed script: 'document.getElementById('end_time_pm').checked = true;' with arguments: ()
+2024-12-26 14:31:38.291978 - Find Element - Pass - Located element: 'div'
+2024-12-26 14:31:38.317610 - Find Element - Pass - Located element: 'start_time_period'
+2024-12-26 14:31:40.474718 - Send Keys - Pass - Entered '04:23' into element: 'HH:mm'
+2024-12-26 14:31:42.810533 - Find Element - Pass - Located element: 'period'
+2024-12-26 14:31:42.884553 - Click - Pass - Clicked element: 'toggle-switch_end_time'
+2024-12-26 14:31:45.031009 - Find Element - Pass - Located element: 'healingTimeMins'
+2024-12-26 14:31:45.131165 - Send Keys - Pass - Entered '53' into element: 'Healing time in minutes'
+2024-12-26 14:31:47.223220 - Find Element - Pass - Located element: 'healingsPerDay'
+2024-12-26 14:31:47.278143 - Send Keys - Pass - Entered '52' into element: 'Healings per day'
+2024-12-26 14:31:49.363457 - Find Element - Pass - Located element: 'Select
+                            False
+                            True'
+2024-12-26 14:31:51.454848 - Find Element - Pass - Located element: 'Select payout
+                            True
+                            False'
+2024-12-26 14:31:55.612796 - Find Element - Pass - Located element: 'Select Plan
+                            Free
+                            Premium
+                            LoveNHeal'
+2024-12-26 14:31:57.763534 - Find Element - Pass - Located element: 'Select
+                            True
+                            False'
+2024-12-26 14:31:59.891761 - Find Element - Pass - Located element: 'Select rank
+                            
+                                1
+                            
+                                2
+                            
+                                3
+                            
+                                4
+                            
+                                5
+                            
+                                6
+                            
+                                7
+                            
+                                8
+                            
+                                9
+                            
+                                10'
+2024-12-26 14:32:01.999650 - Find Element - Pass - Located element: 'Select
+                            LEVEL1
+                            LEVEL2
+                            LEVEL3'
+2024-12-26 14:32:04.129682 - Find Element - Pass - Located element: 'Select
+                            Not Initiated
+                            Initiated
+                            Verification Pending
+                            Verification Hold
+                            Verification Rejected
+                            Verified'
+2024-12-26 14:32:06.212175 - Find Element - Pass - Located element: 'Choose an option'
+2024-12-26 14:32:06.247363 - Click - Pass - Clicked element: 'Choose an option'
+2024-12-26 14:32:19.732347 - Click - Pass - Clicked element: 'Affirmations'
+2024-12-26 14:32:20.817450 - Find Element - Pass - Located element: 'shortBio'
+2024-12-26 14:32:20.860397 - Send Keys - Pass - Entered 'This is a short bio of the healer.' into element: 'Write a short bio of healer'
+2024-12-26 14:32:21.051345 - Find Element - Pass - Located element: 'longBio'
+2024-12-26 14:32:21.152118 - Send Keys - Pass - Entered 'This is a detailed and comprehensive bio of the healer, describing their experience, methods, and specialties.' into element: 'Write a long bio of healer'
+2024-12-26 14:32:21.581473 - Find Element - Pass - Located element: 'Save'
+2024-12-26 14:32:21.612834 - Click - Pass - Clicked element: 'Save'
+2024-12-26 14:32:23.744190 - Find Element - Pass - Located element: 'button'
+2024-12-26 14:32:23.771758 - Click - Pass - Clicked element: 'btn'
+2024-12-26 14:32:26.058504 - Quit Browser - Pass - Closed the browser
+2024-12-26 14:34:05.519699 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-26 14:34:05.566989 - Find Element - Pass - Located element: 'username'
+2024-12-26 14:34:05.615031 - Find Element - Pass - Located element: 'password'
+2024-12-26 14:34:05.757572 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-26 14:34:05.943741 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-26 14:34:11.109345 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:34:11.114359 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/getHealers
+2024-12-26 14:34:14.660081 - Find Element - Pass - Located element: 'New'
+2024-12-26 14:34:14.752559 - Click - Pass - Clicked element: 'New'
+2024-12-26 14:34:14.883969 - Find Element - Pass - Located element: 'healer_name'
+2024-12-26 14:34:15.617940 - Send Keys - Pass - Entered '['Sumeet']' into element: 'Customer name'
+2024-12-26 14:34:19.741071 - Execute Script - Pass - Executed script: 'arguments[0].scrollIntoView(true);' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="34994e50523ae8c2b96db4d81f45fdfc", element="f.FDD09DC4AFD345CDD2A19F644741969D.d.A65EA373C820AF660849D6F4349445FD.e.170")>,)
+2024-12-26 14:34:19.763060 - Execute Script - Pass - Executed script: 'arguments[0].click();' with arguments: (<selenium.webdriver.remote.webelement.WebElement (session="34994e50523ae8c2b96db4d81f45fdfc", element="f.FDD09DC4AFD345CDD2A19F644741969D.d.A65EA373C820AF660849D6F4349445FD.e.170")>,)
+2024-12-26 14:34:23.835543 - Find Element - Pass - Located element: 'experienceInMonths'
+2024-12-26 14:34:23.894118 - Send Keys - Pass - Entered '1' into element: 'Experience in months'
+2024-12-26 14:34:26.002072 - Find Element - Pass - Located element: 'Start_timeInput'
+2024-12-26 14:34:26.114536 - Send Keys - Pass - Entered '0046' into element: 'HH:mm'
+2024-12-26 14:34:30.224196 - Execute Script - Pass - Executed script: 'document.getElementById('start_time_am').checked = true;' with arguments: ()
+2024-12-26 14:34:30.232767 - Execute Script - Pass - Executed script: 'document.getElementById('start_time_pm').checked = true;' with arguments: ()
+2024-12-26 14:34:30.271990 - Find Element - Pass - Located element: 'End_timeInput'
+2024-12-26 14:34:30.402765 - Send Keys - Pass - Entered '0146' into element: 'HH:mm'
+2024-12-26 14:34:30.499848 - Execute Script - Pass - Executed script: 'document.getElementById('end_time_am').checked = true;' with arguments: ()
+2024-12-26 14:34:30.507603 - Execute Script - Pass - Executed script: 'document.getElementById('end_time_pm').checked = true;' with arguments: ()
+2024-12-26 14:34:34.547775 - Find Element - Pass - Located element: 'healingTimeMins'
+2024-12-26 14:34:34.656402 - Send Keys - Pass - Entered '43' into element: 'Healing time in minutes'
+2024-12-26 14:34:36.779898 - Find Element - Pass - Located element: 'healingsPerDay'
+2024-12-26 14:34:36.888938 - Send Keys - Pass - Entered '43' into element: 'Healings per day'
+2024-12-26 14:34:38.993050 - Find Element - Pass - Located element: 'Select
+                            False
+                            True'
+2024-12-26 14:34:41.128511 - Find Element - Pass - Located element: 'Select payout
+                            True
+                            False'
+2024-12-26 14:34:45.342745 - Find Element - Pass - Located element: 'Select Plan
+                            Free
+                            Premium
+                            LoveNHeal'
+2024-12-26 14:34:47.442845 - Find Element - Pass - Located element: 'Select
+                            True
+                            False'
+2024-12-26 14:34:49.551682 - Find Element - Pass - Located element: 'Select rank
+                            
+                                1
+                            
+                                2
+                            
+                                3
+                            
+                                4
+                            
+                                5
+                            
+                                6
+                            
+                                7
+                            
+                                8
+                            
+                                9
+                            
+                                10'
+2024-12-26 14:34:51.642666 - Find Element - Pass - Located element: 'Select
+                            LEVEL1
+                            LEVEL2
+                            LEVEL3'
+2024-12-26 14:34:53.744420 - Find Element - Pass - Located element: 'Select
+                            Not Initiated
+                            Initiated
+                            Verification Pending
+                            Verification Hold
+                            Verification Rejected
+                            Verified'
+2024-12-26 14:34:55.854707 - Find Element - Pass - Located element: 'Choose an option'
+2024-12-26 14:34:55.962740 - Click - Pass - Clicked element: 'Choose an option'
+2024-12-26 14:35:09.069266 - Click - Pass - Clicked element: 'Tibetan Eye Chart'
+2024-12-26 14:35:10.157696 - Find Element - Pass - Located element: 'shortBio'
+2024-12-26 14:35:10.205084 - Send Keys - Pass - Entered 'This is a short bio of the healer.' into element: 'Write a short bio of healer'
+2024-12-26 14:35:10.429445 - Find Element - Pass - Located element: 'longBio'
+2024-12-26 14:35:10.533020 - Send Keys - Pass - Entered 'This is a detailed and comprehensive bio of the healer, describing their experience, methods, and specialties.' into element: 'Write a long bio of healer'
+2024-12-26 14:35:10.973934 - Find Element - Pass - Located element: 'Save'
+2024-12-26 14:35:11.041026 - Click - Pass - Clicked element: 'Save'
+2024-12-26 14:35:13.215430 - Find Element - Pass - Located element: 'button'
+2024-12-26 14:35:13.300208 - Click - Pass - Clicked element: 'btn'
+2024-12-26 14:35:15.567062 - Quit Browser - Pass - Closed the browser

@@ -1,0 +1,16 @@
+
+xpython:S1192ã"YDefine a constant instead of duplicating this literal "window.scrollTo(0, 300);" 4 times.(‹Ï¡8Ÿ¸ú·¶2
+python:S1192Ì"pDefine a constant instead of duplicating this literal "window.scrollTo(0, document.body.scrollHeight);" 9 times.(ÇùŸ 8Ÿ¸ú·¶2
+–python:S1192¯"qDefine a constant instead of duplicating this literal "/html/body/div[27]/div/div/div/div[4]/div/button" 3 times.(ŽÓ×³üÿÿÿÿ8Ÿ¸ú·¶2
+python:S1192¥"jDefine a constant instead of duplicating this literal "C:/Users/bakal/OneDrive/Desktop/HC150.png" 5 times.(Ù£¶²øÿÿÿÿ8Ÿ¸ú·¶2
+vpython:S1192_"WDefine a constant instead of duplicating this literal "arguments[0].click();" 16 times.(äºí‚8Ÿ¸ú·¶2
+python:S1192Ä"qDefine a constant instead of duplicating this literal "/html/body/div[26]/div/div/div/div[3]/div/button" 5 times.(Üøþ8Ÿ¸ú·¶2
+}python:S117´"^Rename this local variable "Endtime_input" to match the regular expression ^[_a-z][a-z0-9_]*$.(óîœÀ8Ÿ¸ú·¶2
+python:S117°"`Rename this local variable "Starttime_input" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ê€é8Ÿ¸ú·¶2
+„python:S117¾"eRename this local variable "allottedInstructions" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æç·½8Ÿ¸ú·¶2
+}python:S117Ç"^Rename this local variable "gifteePhoneNo" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Š¹í8Ÿ¸ú·¶2
+Ipython:S1481""%Remove the unused local variable "i".(Æß‹úÿÿÿÿ8Ÿ¸ú·¶2
+Zpython:S1481ž":Remove the unused local variable "call_status_unanswered".(íÞ¸æ8Ÿ¸ú·¶2
+Wpython:S1481ö"2Remove the unused local variable "select_element".(žì¿þÿÿÿÿ8Ÿ¸ú·¶2
+Cpython:S125›"Remove this commented out code.(ø˜è±üÿÿÿÿ8Ÿ¸ú·¶2
+>python:S125¡"Remove this commented out code.(©Ð™ý8Ÿ¸ú·¶2

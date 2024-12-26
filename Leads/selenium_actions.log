@@ -1,0 +1,179 @@
+2024-12-23 13:05:44.290217 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 13:05:44.365850 - Find Element - Pass - Located element: 'username'
+2024-12-23 13:05:44.439772 - Find Element - Pass - Located element: 'password'
+2024-12-23 13:05:44.625596 - Send Keys - Pass - Entered 'None' into element: 'Enter your 10 digits phone number'
+2024-12-23 13:07:17.699233 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 13:07:17.805414 - Find Element - Pass - Located element: 'username'
+2024-12-23 13:07:17.866558 - Find Element - Pass - Located element: 'password'
+2024-12-23 13:07:18.012420 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 13:07:18.195490 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 13:27:26.522979 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 13:27:26.626492 - Find Element - Pass - Located element: 'username'
+2024-12-23 13:27:26.707982 - Find Element - Pass - Located element: 'password'
+2024-12-23 13:27:26.955627 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 13:27:27.201653 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 13:31:41.118420 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 13:31:41.207964 - Find Element - Pass - Located element: 'username'
+2024-12-23 13:31:41.277305 - Find Element - Pass - Located element: 'password'
+2024-12-23 13:31:41.436298 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 13:31:41.635479 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 13:43:11.600890 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 13:43:11.668337 - Find Element - Pass - Located element: 'username'
+2024-12-23 13:43:11.719818 - Find Element - Pass - Located element: 'password'
+2024-12-23 13:43:11.819560 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 13:43:11.972420 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 13:46:21.685667 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 13:46:21.742517 - Find Element - Pass - Located element: 'username'
+2024-12-23 13:46:21.795407 - Find Element - Pass - Located element: 'password'
+2024-12-23 13:46:21.907578 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 13:46:22.079551 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:02:16.629791 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:02:16.708371 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:02:16.777501 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:02:16.916516 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:02:17.107584 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:03:48.782584 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:03:48.853906 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:03:48.904916 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:03:49.045894 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:03:49.208605 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:04:45.229572 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:04:45.337406 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:04:45.390011 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:04:45.506771 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:04:45.684237 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:39:05.072200 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:39:05.123080 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:39:05.176919 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:39:05.330352 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:39:05.508878 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:48:04.347932 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:48:04.654310 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:48:04.711853 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:48:04.804189 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:48:04.931162 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:50:06.292715 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:50:06.355834 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:50:06.409982 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:50:06.500855 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:50:06.633187 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-23 14:52:19.988352 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-23 14:52:20.050149 - Find Element - Pass - Located element: 'username'
+2024-12-23 14:52:20.104607 - Find Element - Pass - Located element: 'password'
+2024-12-23 14:52:20.192963 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-23 14:52:20.329304 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 12:48:13.652401 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 12:48:13.880102 - Find Element - Pass - Located element: 'username'
+2024-12-24 12:48:13.955488 - Find Element - Pass - Located element: 'password'
+2024-12-24 12:48:14.078241 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 12:48:14.231410 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 12:51:07.676734 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 12:51:07.736518 - Find Element - Pass - Located element: 'username'
+2024-12-24 12:51:07.790903 - Find Element - Pass - Located element: 'password'
+2024-12-24 12:51:07.963566 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 12:51:08.105969 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 12:53:32.580182 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 12:53:32.654348 - Find Element - Pass - Located element: 'username'
+2024-12-24 12:53:32.724150 - Find Element - Pass - Located element: 'password'
+2024-12-24 12:53:32.903999 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 12:53:33.115843 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:03:47.308605 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:03:59.183177 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:03:59.257334 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:03:59.366730 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:03:59.537203 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:03:59.746048 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:08:03.981428 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:08:04.056026 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:08:04.126820 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:08:04.316975 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:08:04.509600 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:25:17.779619 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:25:17.918328 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:25:18.015143 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:25:18.263021 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:25:18.520448 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:26:31.896680 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:26:31.966093 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:26:32.036118 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:26:32.207605 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:26:32.410559 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:28:23.431793 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:28:23.497717 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:28:23.598384 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:28:23.814396 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:28:24.048258 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:32:26.253073 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:32:26.332748 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:32:26.416918 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:32:26.634608 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:32:26.884386 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:36:58.982482 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:36:59.077470 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:36:59.164559 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:36:59.348710 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:36:59.542104 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:41:02.040751 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:41:08.252675 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:41:08.317848 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:41:08.532153 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:41:08.733658 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:42:29.081238 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:42:29.151938 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:42:29.249706 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:42:29.376351 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:42:29.502963 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:43:59.563305 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:43:59.629830 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:43:59.698627 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:43:59.841609 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:44:00.056513 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 13:46:48.664732 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 13:46:48.774627 - Find Element - Pass - Located element: 'username'
+2024-12-24 13:46:48.857352 - Find Element - Pass - Located element: 'password'
+2024-12-24 13:46:49.064767 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 13:46:49.332867 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 15:01:36.506832 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 15:01:36.638110 - Find Element - Pass - Located element: 'username'
+2024-12-24 15:01:36.670178 - Find Element - Pass - Located element: 'password'
+2024-12-24 15:01:36.756359 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 15:01:36.869979 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-24 15:04:42.429832 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-24 15:04:42.468154 - Find Element - Pass - Located element: 'username'
+2024-12-24 15:04:42.497709 - Find Element - Pass - Located element: 'password'
+2024-12-24 15:04:42.570410 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-24 15:04:42.664405 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
+2024-12-25 14:01:15.655102 - Navigation - Pass - Navigated to URL: http://185.199.53.169:5000/login
+2024-12-25 14:01:15.774475 - Find Element - Pass - Located element: 'username'
+2024-12-25 14:01:15.865465 - Find Element - Pass - Located element: 'password'
+2024-12-25 14:01:16.102454 - Send Keys - Pass - Entered '9359146811' into element: 'Enter your 10 digits phone number'
+2024-12-25 14:01:16.345757 - Send Keys - Pass - Entered 'Kalyani@1234
+' into element: '********'
